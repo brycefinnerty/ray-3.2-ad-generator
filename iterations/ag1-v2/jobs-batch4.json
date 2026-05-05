@@ -1,0 +1,23 @@
+[
+  {
+    "name": "T21-napkin-testimonial",
+    "prompt_path": "iterations/ag1-v2/T21-napkin-testimonial/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "2:3",
+    "out_dir": "iterations/ag1-v2/T21-napkin-testimonial"
+  },
+  {
+    "name": "T23-pov-calendar",
+    "prompt_path": "iterations/ag1-v2/T23-pov-calendar/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T23-pov-calendar"
+  },
+  {
+    "name": "T24-phone-in-phone",
+    "prompt_path": "iterations/ag1-v2/T24-phone-in-phone/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "9:16",
+    "out_dir": "iterations/ag1-v2/T24-phone-in-phone"
+  }
+]

@@ -1,0 +1,13 @@
+9:16 portrait static ad creative, 1080x1920, edge-to-edge — a "phone-in-phone" composite where the canvas itself appears to be an Instagram Reel-style scene, with a stylized smartphone-frame inset in the center holding the actual ad creative content. Standalone ad creative, ready to upload.
+
+Background: a deep saturated solid color fills the entire 9:16 canvas (use a deep AG1 forest-green ~#1A4731). Subtle pattern: faint white "AG1" wordmark text repeats in stylized graffiti / sticker-style across the background at a consistent angle (~15° clockwise rotation), with low opacity (~15%) — creating a textured "branded backdrop" feel without being too busy.
+
+Centered in the canvas (occupying the central ~65% width, ~70% height — well within safe-zone padding): a portrait-oriented smartphone frame mockup rendered as a clean rounded-rectangle device shape (slightly tilted ~5° clockwise for dynamism, with a subtle drop shadow). The phone frame contains a vertical 9:16 image inside its screen — the ACTUAL ad content:
+
+INSIDE THE PHONE SCREEN:
+- A real-feeling UGC selfie photograph: a fit woman in her early 30s with tied-back brown hair, light golden-hour kitchen lighting, smiling slightly while raising a clear AG1 shaker bottle of vibrant green liquid up toward her face. She's mid-laugh, casually dressed in a soft athletic top.
+- Across the lower-mid of the photo, a black rounded-rectangle overlay text label with white bold sans-serif: "Watch this BEFORE / your morning coffee"
+
+Across the bottom 14% of the entire canvas (NOT inside the phone — overlaid on the green background, with comfortable safe-zone padding from the bottom edge): a horizontal red CTA bar (~#E84F2C or strong AG1-coral) spanning the full canvas width, containing white bold sans-serif text "Learn more" left-aligned, with a small white right-arrow ">" on the right edge.
+
+The composition reads as a Reel preview where someone is showing a phone screen. No iOS status bar, no Reel UI (no IG header, like buttons, comment count), no home indicator.

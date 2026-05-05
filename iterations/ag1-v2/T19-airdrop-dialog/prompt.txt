@@ -1,0 +1,17 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake Apple AirDrop dialog mockup floating on a soft blurred background. Standalone ad creative, ready to upload.
+
+Background: soft blurred neutral grey-beige photographic background ~#C9C6C0 (the look of a hand-held phone background, slightly out of focus, with no recognizable elements). The blurred background fills the entire canvas.
+
+Centered in the canvas, occupying the central 80% width and 90% height: a white rounded-corner rectangular dialog card with subtle shadow. Inside the card, top to bottom:
+
+1. Top section (~18% of card height): centered title "AirDrop" in bold black SF Pro Display, large (~52pt feel). Beneath the title, in regular black SF Pro at smaller size, two short stacked lines, centered:
+   "Looking to feel like yourself again?"
+   "Try AG1."
+
+2. Middle section (~62% of card height): a horizontal split-screen photo, two equal-width images side by side with a thin white vertical divider between them. LEFT: a photo of a tired, slumped man in his early 40s, wearing an oversized faded t-shirt, slouching at home in dim warm light, scrolling on his phone. RIGHT: a photo of the SAME man (same face, same age) but transformed — standing confidently outdoors in bright golden-hour light, fitter, smiling, wearing fitted athletic gear, holding an AG1 shaker bottle of vibrant green liquid, looking energized.
+
+3. Bottom section (~20% of card height): a thin grey hairline divider across the card width, then two button areas split evenly with a thin vertical hairline between them. Left button: "Decline" in light blue (~#3B82F6) SF Pro regular weight. Right button: "Accept" in bold dark blue (~#1E3A8A) SF Pro Semibold.
+
+The dialog card is clean and pixel-faithful to a real iOS AirDrop dialog. Comfortable safe-zone padding from canvas edges (~10% on all sides).
+
+No additional text, no logos overlay, no iOS status bar / chrome around the dialog. Just the dialog card floating on the soft blurred background.

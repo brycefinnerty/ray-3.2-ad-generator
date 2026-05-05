@@ -1,0 +1,27 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a side-by-side hand-drawn-feel flowchart comparing "The Old Way" to "The AG1 Way" as two contrasting workflows. Standalone ad creative, ready to upload. Cream / off-white background ~#F5F1EA.
+
+LEFT HALF (~48% width) — "The Old Way":
+- Header: a black rounded-rectangle pill at the top with white sans-serif text "The Old Way"
+- Below it: a vertical chain of 5 small rectangular outlined boxes connected by thin black arrow lines pointing down, each box containing a short pain-point label in plain black sans-serif:
+  1. Buy 12 pills
+  2. Forget half of them
+  3. Bloat from synthetic fillers
+  4. No noticeable energy
+  5. Stop the routine
+- The bottom box has a small skull / crossed-out icon next to it (or text "Give Up")
+- The arrows are slightly wonky, hand-drawn-feel — gives "messy chaotic process" energy
+
+RIGHT HALF (~48% width) — "The AG1 Way":
+- Header: a deep AG1 forest-green ~#1A4731 rounded-rectangle pill at the top with white sans-serif text "The AG1 Way"
+- Below it: a shorter vertical chain of just 3 rounded-rectangle boxes connected by clean smooth arrow lines pointing down, each in a soft sage / cream tone with darker green border, containing:
+  1. One scoop of AG1 daily
+  2. Cover all your bases (75+ ingredients)
+  3. Actually feel the difference
+- Below the chain: a small flourish / star icon, and bold dark forest-green text "Calm Consistency"
+- The arrows here are clean and confident — gives "simple effective process" energy
+
+Between the two halves, a thin vertical hairline grey divider runs top to bottom.
+
+The flowchart has a hand-drawn / sketched feel (slight wobble in lines, irregular pen strokes) but stays clearly readable. All text labels are in plain black sans-serif inside their boxes — short phrases, no emoji.
+
+No additional text, no logos overlay, no UI chrome.

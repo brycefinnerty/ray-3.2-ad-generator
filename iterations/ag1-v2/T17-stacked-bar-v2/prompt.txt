@@ -1,0 +1,25 @@
+2:3 portrait static ad creative, 1080x1620, edge-to-edge — a clean data-visualization-style "with brand vs without brand" stacked-bar comparison. Standalone ad creative, ready to upload. Pure white background.
+
+The image is split into TWO equal-width columns side by side, with a thin grey hairline vertical divider between them.
+
+EACH column has the EXACT same outer structure: header label "Time spent" at top, single tall vertical bar in the middle, footer label at bottom. Bars in both columns are EXACTLY the same total height.
+
+LEFT COLUMN — winning side:
+- Top label: "Time spent" in regular black sans-serif (~22pt)
+- Single tall rectangular bar (filling ~75% of column height), filled SOLID with one soft mint-sage green color (~#D4E8D4). NO segments, NO divisions inside this bar — it is one solid rectangle. Centered vertically inside the bar, in dark forest-green sans-serif: "feeling great"
+- Bottom label: "with AG1" in regular black sans-serif
+
+RIGHT COLUMN — losing side:
+- Top label: "Time spent" in regular black sans-serif (same size)
+- Single tall rectangular bar (same height/width as left), divided into EXACTLY FIVE horizontal segments stacked top-to-bottom. The bar must contain FIVE segments, no more, no fewer — do not add a sixth segment.
+- The five segments are equal height, each labeled with a short pain-point text centered inside, in dark text. From TOP to BOTTOM:
+  1. SOFT BLUE ~#D9E5F2 — "worrying about energy"
+  2. SOFT GREEN ~#D4E8D4 — "scrolling for solutions"
+  3. SOFT YELLOW ~#F2EBC9 — "buying random supplements"
+  4. SOFT PEACH ~#F2D9C9 — "questioning your routine"
+  5. SOFT PINK ~#F2D4D9 — "actually feeling good"
+- Bottom label: "without AG1" in regular black sans-serif
+
+Five segments only on the right bar. Solid color block on the left bar. Both columns within the central 84% safe zone with comfortable padding from canvas edges. Headers and footers fully visible.
+
+Modern minimal data-viz aesthetic — clean, Apple-Health-inspired. No additional text, no logos overlay, no UI chrome.

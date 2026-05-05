@@ -1,0 +1,16 @@
+[
+  {
+    "name": "T17-stacked-bar-v2",
+    "prompt_path": "iterations/ag1-v2/T17-stacked-bar-v2/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "2:3",
+    "out_dir": "iterations/ag1-v2/T17-stacked-bar-v2"
+  },
+  {
+    "name": "T23-pov-calendar-v2",
+    "prompt_path": "iterations/ag1-v2/T23-pov-calendar-v2/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T23-pov-calendar-v2"
+  }
+]

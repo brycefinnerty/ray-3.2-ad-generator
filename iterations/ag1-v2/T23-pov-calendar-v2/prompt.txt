@@ -1,0 +1,37 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake Apple Calendar app screenshot styled as a "POV: a [target customer]'s calendar" relatable-pain-point ad. Standalone ad creative, ready to upload. Pure white background.
+
+Top of the canvas (~14% height, within safe-zone padding from top): a centered headline in bold black sans-serif (~32pt feel) across two stacked lines:
+"POV: A burned-out founder's"
+"daily energy schedule"
+
+Below the headline, occupying the central ~80% of canvas: a calendar timeline view rendered as Apple Calendar dark mode (rounded-corner black panel with thin border). Inside the panel, a left-side time axis runs vertically with EXACTLY these eight labels stacked top-to-bottom (each label appears EXACTLY ONCE — do NOT duplicate any label):
+
+9 AM
+10 AM
+Noon
+1 PM
+2 PM
+3 PM
+4 PM
+5 PM
+
+Each time label sits beside a thin grey horizontal divider running across the panel.
+
+Time-blocked event boxes fill the calendar in the right ~85% of the panel. Each event is a rounded rectangle with a soft pastel fill color and a thicker colored left-border accent. Each event contains, top to bottom: a bold colored title line, then a small clock icon + time-range label in muted text. Plain text only — NO emoji.
+
+EXACTLY EIGHT event blocks, top to bottom — no more, no fewer:
+
+1. Soft blue fill (bright blue left border): "Crash from yesterday's caffeine" — "9 - 10 AM"
+2. Soft purple fill (bright purple border): "Doom-scroll for energy hacks" — "10 AM - 12 PM"
+3. Thin teal sliver (small text only, no time row): "Eat lunch, bloat instantly"
+4. Soft green fill (green border): "Try to actually get work done" — "12:20 - 2 PM"
+5. Soft blue fill: "Buy 4th supplement this month" — "2 - 3 PM"
+6. Soft purple fill: "Nap-craving spiral" — "3 - 4 PM"
+7. Thin teal sliver (small text only, no time row): "Promise tomorrow will be different"
+8. Soft green fill: "Open AG1 box that just arrived" — "4:20 - 5:20 PM"
+
+The visual joke: every event until the last one is a relatable pain. The last event is the brand showing up.
+
+Calendar panel sits centered with comfortable safe-zone padding from canvas edges (~8%). Headline at top fully visible, bottom of calendar panel doesn't touch the bottom edge of the canvas. Time labels in the left axis appear EXACTLY ONCE each — no duplicates like "3 PM" appearing twice.
+
+No additional text, no logos overlay, no UI chrome.

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "T17-stacked-bar",
+    "prompt_path": "iterations/ag1-v2/T17-stacked-bar/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "2:3",
+    "out_dir": "iterations/ag1-v2/T17-stacked-bar"
+  },
+  {
+    "name": "T18-flowchart-old-vs-new",
+    "prompt_path": "iterations/ag1-v2/T18-flowchart-old-vs-new/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T18-flowchart-old-vs-new"
+  },
+  {
+    "name": "T19-airdrop-dialog",
+    "prompt_path": "iterations/ag1-v2/T19-airdrop-dialog/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T19-airdrop-dialog"
+  },
+  {
+    "name": "T20-ig-qa-sticker",
+    "prompt_path": "iterations/ag1-v2/T20-ig-qa-sticker/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "9:16",
+    "out_dir": "iterations/ag1-v2/T20-ig-qa-sticker"
+  }
+]

@@ -124,8 +124,8 @@ Validated example: `iterations/ag1-v2/T2-ig-feed/`
 **Reference image:** product hero (for the shaker/product visible in the UGC photo)
 
 **Variables:**
-- `{authority_name}` — full name of the quoted authority (e.g. `Dr. Andrew Huberman`)
-- `{authority_handle}` — Twitter/X handle (e.g. `@hubermanlab`)
+- `{authority_name}` — full name of the quoted authority (a doctor, scientist, athlete, founder — someone with category credibility)
+- `{authority_handle}` — Twitter/X handle of the authority
 - `{authority_face_description}` — 1-line face description for the small profile photo
 - `{tweet_body}` — multi-line tweet text including the value-prop bullets with emojis
 - `{ugc_subject}` — what the UGC photo shows (e.g. `fit woman in workout clothes mid-laugh holding an AG1 shaker bottle`)
@@ -491,6 +491,146 @@ Validated example: `iterations/ag1-v2/T14-fake-slack-v2/` (v2: plain-text messag
 **Template prompt summary:** Soft cream background. LEFT half: vertical list of 4-6 ingredient names in clean black sans-serif, each followed by a thin hairline grey divider running to the right edge of the left half. RIGHT half: vertical photo collage stack of the ingredients (one tile per ingredient) flowing into the actual product, which sits at the bottom-right overlapping the collage. Premium-wellness editorial aesthetic.
 
 Validated example: `iterations/ag1-v2/T15-ingredient-list/`
+
+---
+
+## T17 — Stacked-bar with vs without comparison
+
+**When to use:** data-viz framing of the brand's value prop. Reads as objective even though it's editorial. Strong for productivity, wellness, finance, time-saving brands where the "without" side has many discrete failure modes.
+
+**Aspect ratio:** `2:3`
+
+**Reference image:** product hero (informs brand color for the winning bar)
+
+**Variables:**
+- `{header_label}` — top label both columns share (e.g. `Time spent`, `Money spent`, `Brain space`)
+- `{winning_bar_color}` — soft tone for the brand's solid bar (e.g. mint-sage `#D4E8D4`)
+- `{winning_bar_text}` — short phrase centered in the brand bar (e.g. `feeling great`, `actually working`)
+- `{losing_segments[]}` — EXACTLY 5 short pain-point labels (top to bottom), each on a different soft pastel. Be explicit: "five segments only, no more."
+- `{brand.name}` and `{competitor_label}` — column footers
+
+**Template summary:** Two equal-width columns, hairline divider between. Left: solid colored bar with one centered phrase, brand-color footer. Right: same-height bar divided into exactly 5 horizontal pastel segments, each with a short pain-point label. Headers and footers in plain black sans-serif.
+
+Validated example: `iterations/ag1-v2/T17-stacked-bar-v2/`
+
+---
+
+## T18 — Flowchart "old way" vs "new way"
+
+**When to use:** workflow / habit transformation. Best when the brand replaces a complicated process with a simple one. Strong for SaaS, supplements, productivity, info-products.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (drives the brand color in the new-way pill + box borders)
+
+**Variables:**
+- `{old_way_steps[]}` — 5 short pain-point steps for the old-way column (each ≤4 words). Last step is a "give up" / failure state.
+- `{new_way_steps[]}` — 3 short steps for the new-way column (≤6 words each). Ends with the brand's outcome.
+- `{closing_outcome}` — short bold tagline beneath the new-way chain (e.g. `Calm Consistency`, `Just one step`)
+- `{brand.color_primary}` — for the new-way header pill + box borders
+
+**Template summary:** Two halves, vertical hairline divider. LEFT: black rounded-rect "Old Way" header pill, then 5 outlined boxes connected by wonky hand-drawn arrows, ending with skull/crossed-out icon at "Give Up". RIGHT: brand-colored "New Way" header pill, 3 sage-toned rounded boxes with clean confident arrows, ending in a flourish star + bold dark-green outcome text.
+
+Validated example: `iterations/ag1-v2/T18-flowchart-old-vs-new/`
+
+---
+
+## T19 — Fake AirDrop dialog (with before/after)
+
+**When to use:** stop-the-scroll iOS modal pattern. The AirDrop dialog is so familiar that users instinctively look at it. Pair with a before/after to deliver the value prop in one glance. Strong for transformation-led brands (apparel, fitness, supplements, beauty, finance).
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (only used for color cues in the after photo)
+
+**Variables:**
+- `{prompt_question}` — the dialog's two-line subhead, ending with the brand cue (e.g. `Looking to feel like yourself again? Try AG1.`)
+- `{before_subject_description}` — what the left photo shows (the "before" pain state)
+- `{after_subject_description}` — what the right photo shows (the "after" branded state)
+
+**Template summary:** Soft blurred neutral grey-beige background. Centered: a white rounded-rectangle iOS AirDrop dialog with bold "AirDrop" title, two-line subhead, side-by-side before/after photo split (thin white vertical divider), then bottom row with "Decline" (light blue) / "Accept" (dark blue) buttons split by hairline.
+
+Validated example: `iterations/ag1-v2/T19-airdrop-dialog/`
+
+---
+
+## T20 — IG Story Q&A sticker over lifestyle photo
+
+**When to use:** UGC / influencer authority — feels like a real creator answering a real question. Pair with an aspirational lifestyle background to bake the brand into the lifestyle the user wants.
+
+**Aspect ratio:** `9:16`
+
+**Reference image:** product hero (helps the answer text reference the actual product accurately)
+
+**Variables:**
+- `{lifestyle_photo_description}` — the full-bleed background (sunset coastline, mountain trail, kitchen at golden hour, etc.)
+- `{question}` — the white-card question text (1-2 lines, conversational, ≤80 chars)
+- `{answer}` — typewriter-style multi-line answer in 4 short lines, mentioning the brand naturally
+- `{cta_text}` — bottom pill CTA (e.g. `🔗 SHOP NOW`)
+
+**Template summary:** Full-canvas lifestyle photo. Upper third: composite "Ask me anything!" black bar + white question card stacked, then a translucent typewriter-style answer panel below. Bottom: small white rounded pill CTA.
+
+Validated example: `iterations/ag1-v2/T20-ig-qa-sticker/`
+
+---
+
+## T21 — Handwritten testimonial on napkin / paper
+
+**When to use:** UGC raw-and-real aesthetic. Reads as authentic creator content, not branded. Best for brands with a "friend recommendation" angle.
+
+**Aspect ratio:** `2:3`
+
+**Reference image:** product hero (used for the small product element placed near the napkin)
+
+**Variables:**
+- `{handwritten_message}` — multi-line cursive ink text, friend-to-friend voice, ending with the brand mention
+- `{table_setting}` — what's around the napkin (cafe table, kitchen counter, marble countertop)
+- `{product_element_description}` — the single product cue placed near the napkin (a sachet, a bottle, packaging glimpse)
+- `{cta_color}` — color for the bottom shop-now pill
+
+**Template summary:** Top-down/angled real-world photograph of a paper napkin on a table, with hand-written ink message in casual cursive. Surrounded by a glass with the brand's product, an open sachet, food crumbs / fruit dish edges. Soft warm natural daylight. Small bottom pill CTA.
+
+Validated example: `iterations/ag1-v2/T21-napkin-testimonial/`
+
+---
+
+## T23 — POV calendar timeline of pain points
+
+**When to use:** relatability humor for time-pressed audiences (founders, parents, students). The brand emerges in the last calendar block as the relief. Strong scroll-stopper.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (only color cues)
+
+**Variables:**
+- `{pov_headline}` — two-line "POV: A [target customer]'s [domain] schedule" (e.g. `POV: A burned-out founder's daily energy schedule`)
+- `{calendar_blocks[]}` — EXACTLY 8 events, top-to-bottom: 6 pain-points + 1 sliver "lunch / break / promise" + 1 final brand-arrival event. Each has color, title, and time range.
+- `{time_axis_labels[]}` — 8 labels, each appearing exactly once (do NOT duplicate any label like "3 PM" twice)
+
+**Template summary:** Headline at top, then a dark-mode Apple Calendar panel with vertical time-axis labels and 8 color-coded rounded-rectangle event blocks. Each event title and time-range plainly readable. Last event is the brand showing up — the joke pays off there.
+
+Validated example: `iterations/ag1-v2/T23-pov-calendar-v2/`
+
+---
+
+## T24 — Phone-in-phone Reel composite
+
+**When to use:** "watch this Reel" pattern — the canvas itself looks like a Reel still, with a phone-frame inset showing UGC. Strong when paired with intrigue overlay text ("Watch this BEFORE…", "What I tried after…"). Works for personality-led / influencer brands.
+
+**Aspect ratio:** `9:16`
+
+**Reference image:** product hero (used for the brand-pattern background and the product visible in the UGC photo)
+
+**Variables:**
+- `{background_pattern}` — repeating wordmark / branded backdrop (e.g. low-opacity AG1 wordmark on forest green)
+- `{ugc_subject}` — what the inset photo shows (creator with product, mid-action, golden hour, etc.)
+- `{overlay_text}` — black rounded-rectangle text label across the UGC photo (e.g. `Watch this BEFORE / your morning coffee`)
+- `{cta_color}` — color for the bottom CTA bar
+- `{cta_text}` — bottom CTA text (e.g. `Learn more`)
+
+**Template summary:** Full-canvas branded backdrop (saturated brand color with low-opacity wordmark pattern). Centered: a slightly tilted phone-frame mockup containing a vertical UGC-style photo with a black rounded-rect overlay label across the lower-mid. Bottom: full-width CTA bar in accent color with right-arrow.
+
+Validated example: `iterations/ag1-v2/T24-phone-in-phone/`
 
 ---
 

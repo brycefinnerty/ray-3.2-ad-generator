@@ -1,0 +1,23 @@
+2:3 portrait static ad creative, 1080x1620, edge-to-edge — a clean data-visualization-style "with brand vs without brand" stacked-bar comparison. Standalone ad creative, ready to upload. Pure white background.
+
+The image is split into TWO equal-width columns side by side, with a thin grey hairline vertical divider between them. Each column has the same structure: a label "Time spent" at the top of the column in muted black sans-serif, then a single tall vertical stacked-bar chart, then the column footer label.
+
+LEFT COLUMN (the "WITH brand" — winning side):
+- Header at top: "Time spent" in regular black sans-serif (~22pt)
+- Below: a single tall rectangular bar (~80% of available column height), filled with a single soft mint-sage color (~#D4E8D4 or similar warm green pastel, matching AG1 brand). Inside the bar, centered vertically, in dark forest-green sans-serif: "feeling great"
+- Footer below the bar: "with AG1" in regular black sans-serif
+
+RIGHT COLUMN (the "WITHOUT brand" — losing side):
+- Header at top: "Time spent" in regular black sans-serif (same size)
+- Below: a single tall rectangular bar (same height/width as the left), divided into FIVE horizontal stacked segments of varying soft pastel colors, each labeled in small dark text inside the segment. Top to bottom:
+  1. Soft blue (~#D9E5F2) — "worrying about energy"
+  2. Soft green (~#D4E8D4) — "scrolling for solutions"
+  3. Soft yellow (~#F2EBC9) — "buying random supplements"
+  4. Soft peach (~#F2D9C9) — "questioning your routine"
+  5. Soft pink (~#F2D4D9) — "actually feeling good"
+  (segment heights roughly equal, each labeled clearly with dark sans-serif text, centered inside the segment)
+- Footer below the bar: "without AG1" in regular black sans-serif
+
+The two-column composition fills the central 84% of the canvas with comfortable padding from all edges. Headers and footers are clearly readable. Both bars are the same total height and width. Modern minimal data-viz aesthetic — clean, Apple-Health-inspired.
+
+No additional text, no logos overlay, no UI chrome.

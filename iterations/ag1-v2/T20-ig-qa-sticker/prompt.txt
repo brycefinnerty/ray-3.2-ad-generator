@@ -1,0 +1,20 @@
+9:16 portrait static ad creative, 1080x1920, edge-to-edge — an Instagram Story-style "Ask me anything!" Q&A sticker overlaid on a beautiful lifestyle photograph. Standalone ad creative.
+
+Background: a stunning warm-light landscape photograph fills the entire 9:16 canvas. The scene is a sun-drenched Mediterranean coastal town at golden hour — pastel cream and terracotta-roofed buildings cascade down a hillside to a calm sea where small boats are anchored. Soft pink and orange sunset light, dreamy and aspirational. The photograph fills the canvas edge-to-edge with no border.
+
+Overlaid on the upper third of the canvas, centered horizontally: a rectangular composite "AMA sticker + answer" element, occupying about 70% of the canvas width:
+
+A. The TOP part is the IG Story "Ask me anything!" question sticker — a stacked two-block element:
+   - Top block: a black rounded-rectangle bar containing centered white bold sans-serif text "Ask me anything!"
+   - Bottom block (attached directly below the top): a white rounded-rectangle (matched corners) containing centered bold black sans-serif text in 2-3 lines: "What's the one supplement you actually stay consistent with?"
+   - The two blocks visually read as a stacked sticker, cohesive unit.
+
+B. Just below the sticker (with a small gap), the answer is rendered as a typewriter-style monospace text overlay on a translucent white panel, multi-line, centered horizontally with comfortable safe-zone padding from the canvas edges:
+   "AG1!! One scoop in the morning,
+   that's it. Travel sachets in my
+   bag for trips. 4 years strong.
+   Not sponsored — link in bio!!!"
+
+Bottom of the canvas (~10% from the bottom edge, well within safe zone): a small white rounded-pill CTA containing dark sans-serif text "🔗 SHOP NOW" with a small link-chain icon. Centered horizontally.
+
+The composition reads as a real "creator IG Story moment" — but rendered as the standalone ad creative. No iOS status bar, no Story progress bars, no story header at top, no swipe arrows at bottom, no home indicator, no tab nav.

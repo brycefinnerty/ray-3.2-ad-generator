@@ -1,0 +1,26 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake Apple Calendar app screenshot styled as a "POV: a [target customer]'s calendar" relatable-pain-point ad. Standalone ad creative, ready to upload. Pure white background.
+
+Top of the canvas (~14% height, within safe-zone padding from top): a centered headline in bold black sans-serif (~32pt feel) across two stacked lines:
+"POV: A burned-out founder's"
+"daily energy schedule"
+
+Below the headline, occupying the central ~80% of canvas: a calendar timeline view rendered as Apple Calendar dark mode (rounded-corner black panel with thin border). Inside the panel, a left-side time axis runs vertically (9 AM, 10 AM, 11 AM, Noon, 1 PM, 2 PM, 3 PM, 4 PM, 5 PM) in small grey caps SF Pro. Each hour has a thin grey horizontal divider running across the panel.
+
+Time-blocked event boxes fill the calendar in the right ~85% of the panel. Each event is a rounded rectangle with a soft pastel fill color and a thicker colored left-border accent. Each event contains, top to bottom: a bold colored title line, then a small clock icon + time-range label in muted text. Plain text only — NO emoji.
+
+Stack the events with believable durations (some short, some long), top to bottom:
+
+1. 9 AM block (height ~1hr): SOFT BLUE FILL with brighter blue left border. Title in bright blue: "Crash from yesterday's caffeine". Time: "9 - 10 AM"
+2. 10 AM - Noon block (height ~2hr): SOFT PURPLE FILL with brighter purple left border. Title in bright purple: "Doom-scroll for 'energy hacks'". Time: "10 AM - 12 PM"
+3. Noon thin sliver (height ~20min): SOFT TEAL with teal border. Title small text only: "Eat lunch, bloat instantly"
+4. 12:20 - 2 PM block (height ~1.5hr): SOFT GREEN with green border. Title in bright green: "Try to actually get work done". Time: "12:20 - 2 PM"
+5. 2 PM - 3 PM block (height ~1hr): SOFT BLUE again. Title in bright blue: "Buy 4th supplement this month". Time: "2 - 3 PM"
+6. 3 PM - 4 PM block: SOFT PURPLE. Title in bright purple: "Nap-craving spiral". Time: "3 - 4 PM"
+7. 4 PM thin sliver: SOFT TEAL. Small text title only: "Promise tomorrow will be different"
+8. 4:20 - 5:20 PM block: SOFT GREEN. Title: "Open AG1 box that just arrived". Time: "4:20 - 5:20 PM"
+
+The visual joke: every block until the last one is a relatable pain. The last block is the brand showing up.
+
+Calendar panel sits centered with comfortable safe-zone padding from canvas edges (~8%). Headline at top fully visible, bottom of calendar panel doesn't touch the bottom edge of the canvas.
+
+No additional text, no logos overlay, no UI chrome (no iOS status bar, no Calendar nav, no home indicator).
