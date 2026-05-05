@@ -1,0 +1,25 @@
+2:3 portrait static ad creative — a clean Apple Notes app aesthetic mock-up rendered as a standalone image, edge-to-edge, on a pure white #FFFFFF background. The aesthetic mimics the look of a personal note in Apple Notes, but this is the upload-ready ad creative itself, not a phone screenshot.
+
+Top of the image (taking ~10% height): an Apple Notes navigation header. Left: orange "< Notes" back-chevron + label in SF Pro semibold. Center: two orange icons — a forward-arrow circle (redo) and a circular refresh arrow. Right: a share-square icon and an ellipsis-in-circle icon, both grey. Hairline grey divider beneath.
+
+Centered just below the header, in small grey SF Pro: "March 14, 2026 at 6:42 AM"
+
+Then bold black SF Pro title (large, ~32pt feel): "Why I Switched To AG1 🌿" — with a small green leaf emoji at the end.
+
+Then a vertical list of 10 unchecked checklist items. Each row: a hollow grey circle bullet on the left, then the item text in regular black SF Pro with emoji decorations interleaved. Items (verbatim):
+1. Less time meal-prepping ⏱️🥗
+2. No more 12-pill morning stack 💊→🌱
+3. Travel-friendly sachets ✈️🍃
+4. Easier to actually drink 💚
+5. Backed by clinical research 🔬
+6. Endorsed by people I trust 👥
+7. One scoop, one minute ⏲️
+8. Berry flavor I don't gag on 🫐
+9. Fewer "did I take my vitamins?" thoughts 🧠
+10. More energy by 10am ⚡
+
+Generous vertical spacing, items left-aligned with consistent left padding from the bullet.
+
+Bottom of the image (~6% height): an Apple Notes toolbar with four icons evenly spaced — orange checklist/list icon (active), camera icon, "A" inside a circle (text style), and a pencil-edit-square icon.
+
+The composition reads as a calm, honest personal note — like a real customer's private journal entry — but rendered as a standalone ad creative ready to upload. No keyboard, no selection state, no device chrome.

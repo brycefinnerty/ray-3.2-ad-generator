@@ -1,0 +1,16 @@
+[
+  {
+    "name": "T5-saved-fb-comparison",
+    "prompt_path": "iterations/r1/T5-saved-fb-comparison/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_6.jpg",
+    "aspect": "2:3",
+    "out_dir": "iterations/r1/T5-saved-fb-comparison"
+  },
+  {
+    "name": "T6-fb-sponsored",
+    "prompt_path": "iterations/r1/T6-fb-sponsored/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_7.jpg",
+    "aspect": "2:3",
+    "out_dir": "iterations/r1/T6-fb-sponsored"
+  }
+]

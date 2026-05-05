@@ -1,0 +1,23 @@
+9:16 portrait static ad creative, 1080x1920, edge-to-edge. Standalone — this image gets uploaded directly as the Story ad asset, not a screenshot of one being viewed.
+
+Background: soft cream / warm grey gradient ~#F2EEE6, full bleed.
+
+Upper-mid composition: a screenshot-style Twitter/X post card, white rounded-corner card with thin shadow, occupying roughly 55-60% of the width on the left side, vertically positioned in the upper third:
+- Top of card: small round profile photo of a smiling middle-aged man with grey-flecked beard, "Dr. Andrew Huberman" in bold black + a small blue-check verified mark, "@hubermanlab" in grey beneath.
+- Tweet text in black sans-serif:
+"Hot take from a neuroscientist:
+
+AG1 is the only supplement I've stayed on for 4+ years. Here's why:
+
+🔬 75+ ingredients, all clinically dosed
+🧬 Pre + probiotics + adaptogens in one scoop
+✈️ Travel sachets keep me consistent on the road
+💚 No bloating, no caffeine, no aftertaste"
+
+To the right of the tweet card, slightly overlapping its right edge: a vertical 9:16-cropped photo of a fit woman in early-morning workout clothes, light skin, mid-laugh, holding an AG1 shaker bottle (forest-green AG1 wordmark visible on the bottle, vibrant green liquid inside) up to her mouth, soft window-light morning kitchen background. Across the lower-mid of the photo, a black rounded-rectangle overlay text label: "Watch this BEFORE / you skip your greens 🌿" in white sans-serif.
+
+Below the tweet+photo composite, in the lower third of the image:
+- A faint cursive italic line in black: "75+ ingredients in one daily scoop..." then "more" in grey-blue underline.
+- Below that, centered, in cursive blue script: "🔗 LEARN MORE" — a link-chain icon then "LEARN MORE" in caps.
+
+The composition is the static Story ad creative ONLY. No iOS device chrome, no Instagram Story progress bars, no story header (no avatar/handle/Sponsored/X close at top), no swipe-up arrows at bottom, no home-indicator bar.

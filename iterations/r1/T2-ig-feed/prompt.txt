@@ -1,0 +1,28 @@
+9:16 mobile screenshot of an Instagram feed sponsored post on iPhone, 1080x1920, pixel-faithful to current iOS Instagram.
+
+Top: iOS status bar — "6:57" left, small bell-with-slash silent glyph; right has a weak 1-bar signal, full wifi, and a low red battery with a lightning bolt charging icon.
+
+Below: Instagram navigation bar — italic cursive "Instagram" wordmark in black with a small dropdown chevron beside it; right side has a hollow heart icon and a Messenger speech-bubble icon with a small red "1" badge.
+
+Below: muted grey "Add a comment..." text input, then "4 hours ago" in small grey.
+
+Brand identity row for the sponsored post: small circular avatar with a stylized blue-and-yellow crescent moon + sun graphic, then "visible.health" in black sans-serif, then "Sponsored" in smaller grey below it. Three-dot ellipsis far right.
+
+The ad image fills the next vertical block. It is an article-style mock-up:
+- Top-left: "WIRED" logo in chunky bold black sans-serif on a small white box.
+- Headline below: "How Chronic Illness Patients Are 'Hacking' Their Wearables" in tight black sans-serif.
+- Sub-copy: "Fitbits and Apple Watches weren't designed for people with atypical health conditions. But the tech can be extremely useful—with some creativity." (regular weight)
+- Photo below the text: torso of a person wearing a bright orange/rust crewneck against a dark/black background, smartwatch on left wrist (face cropped). In the foreground right: an iPhone showing a dark teal/navy health dashboard with a circular "PacePoints 5.6" gauge and bar chart below; just to the right, a thick black fabric wrist strap with a small Polar-red logo.
+- Below the photo: a dark navy/midnight blue band with white sans-serif "Pacing made simple." headline. A bottom bar reads "Learn more >".
+
+Below the ad: Instagram action row — hollow heart, comment bubble, paper-plane share on left; bookmark icon far right.
+
+"Followed by _jemma_bella and 6,634 others" in small black.
+
+"visible.health Join more than 50,000 people managing their pacing with Visible."
+
+"View 1 comment" in grey.
+
+Bottom of screen: standard Instagram tab bar with five icons evenly spaced — home (filled), search magnifier, plus square, reels play, profile circle (with the user's avatar dot).
+
+Pixel-faithful to a real Instagram feed screenshot.

@@ -1,0 +1,26 @@
+Mobile-format Facebook "Saved Ad" view, 2:3 aspect ratio, light grey page background with a centered white card with rounded 12px corners and subtle drop shadow.
+
+Top of card: a circular brand avatar (deep forest-green ~#1A4731 circle with white "AG1" in chunky bold sans-serif) on the left, then "AG1" in black sans-serif beside it, then a faint green dot followed by "Saved 3 months ago" in muted grey, all on one row.
+
+Below the brand row, in regular black sans-serif (Helvetica/Inter feel):
+"75+ ingredients, third-party tested, NSF Certified for Sport. Most multivitamins can't say the same. 🌿
+
+AG1 is: caffeine-free, gluten-free, dairy-free, vegan, and contains zero artificial flavors or sweeteners."
+
+Then the comparison-table image fills the rest of the card. Inside that image:
+
+Left side of header: "AG1 vs. Your Daily Multivitamin" in two lines, dark forest-green bold sans-serif.
+Right side of header: two small product photos in a row — a slim deep forest-green AG1 pouch with white wordmark, and a generic stocky white plastic multivitamin bottle with a faded label.
+
+Below the header, a six-row comparison table with alternating soft-sage (~#E8F0E5) and white row backgrounds:
+
+Row 1: "Clinical Research" (dark forest-green bold) | green ✓ in green-fill circle | red ✗ in red-fill circle
+Row 2: "Probiotics + Prebiotics" (bold) + "For gut health" (smaller, light green) | green ✓ | red ✗
+Row 3: "Adaptogens" + "Ashwagandha, Rhodiola" (smaller) | green ✓ | red ✗
+Row 4: "Essential Vitamins" | green ✓ | green ✓
+Row 5: "Number of Ingredients" | "75+" in dark forest-green sans-serif | "23" in dark forest-green sans-serif
+Row 6: "NSF Certified for Sport" | green ✓ | red ✗
+
+Bottom of the white card (below the table image): in small grey caps "DRINKAG1.COM", then a black sans-serif headline "Subscribe and save 20% on your first month — Be..." truncated mid-word, with a small bordered "Shop Now" button on the right.
+
+Pixel-faithful to a real Facebook saved-ad screenshot.

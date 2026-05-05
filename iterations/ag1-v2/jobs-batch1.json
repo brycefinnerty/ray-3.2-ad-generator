@@ -1,0 +1,30 @@
+[
+  {
+    "name": "T8-whiteboard-comparison",
+    "prompt_path": "iterations/ag1-v2/T8-whiteboard-comparison/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T8-whiteboard-comparison"
+  },
+  {
+    "name": "T9-annotated-callouts",
+    "prompt_path": "iterations/ag1-v2/T9-annotated-callouts/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T9-annotated-callouts"
+  },
+  {
+    "name": "T11-comment-thread",
+    "prompt_path": "iterations/ag1-v2/T11-comment-thread/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T11-comment-thread"
+  },
+  {
+    "name": "T13-before-after",
+    "prompt_path": "iterations/ag1-v2/T13-before-after/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T13-before-after"
+  }
+]

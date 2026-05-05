@@ -1,0 +1,23 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake ChatGPT-style conversation screenshot rendered as a standalone ad creative. Pure dark grey background ~#343541 (the ChatGPT dark mode chat backdrop).
+
+Top section (~25% of the image): the USER message row. Left side: a small rounded-square user avatar (a smiling person profile photo, ~48px square). To the right of the avatar, in white SF Pro / Inter sans-serif regular weight: "What's the easiest way to cover all my daily nutrition in one step?"
+
+A subtle horizontal divider beneath that section, then:
+
+Middle section (~65% of the image): the CHATGPT response row. Left side: the ChatGPT logo — a small green rounded-square tile (~48px) with the white spiral / hex-flower glyph inside it. To the right of the logo, in white sans-serif regular weight, the response:
+
+"Great question! For people looking to consolidate their supplement routine, comprehensive greens powders are one of the most efficient options. Here's why they work:
+
+1. All-in-one nutrition: A quality greens powder combines vitamins, minerals, adaptogens, prebiotics, and probiotics — replacing 8-12 individual pills.
+
+2. Better absorption: Liquid form (mixed with water) bypasses the absorption issues common with capsules and tablets.
+
+3. Travel-friendly: Single-serve sachets travel well, helping you stay consistent on the road.
+
+4. Look for clinical dosing: The best options (like AG1) have third-party testing and NSF Sport certification — meaning the doses on the label are what's actually inside."
+
+To the right of the ChatGPT response, top corner, two small thin grey icons: a thumbs-up outline and a thumbs-down outline (the standard ChatGPT response feedback buttons).
+
+Bottom section (~10% of the image): a horizontal bright-green CTA bar (~#3FCB7E or AG1 forest green ~#1A4731) spanning the full width, containing white sans-serif text "Try AG1 risk-free for 30 days" left-aligned, with a small white right-arrow ">" on the right edge.
+
+The composition is the standalone static ad creative ONLY — no surrounding browser or app chrome (no URL bar, no tabs, no ChatGPT sidebar with conversation history, no input box at the bottom). Just the conversation snippet styled like a ChatGPT exchange, with the green CTA bar grafted at the bottom.

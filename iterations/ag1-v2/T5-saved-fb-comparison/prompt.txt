@@ -1,0 +1,19 @@
+2:3 portrait static ad creative, 1080x1620 — a clean, edge-to-edge comparison-table ad image. Standalone, ready to upload as a Meta ad creative. White background.
+
+Header section (top ~22% of the image):
+- Left side: bold dark forest-green sans-serif headline in two stacked lines: "AG1 vs. Your Daily Multivitamin"
+- Right side, on the same vertical band as the headline: two product photos in a row — a slim deep forest-green AG1 pouch with white "AG1" wordmark on the left, and a generic stocky white plastic multivitamin bottle with a faded label on the right.
+- Hairline thin grey divider beneath the header.
+
+Comparison table (bottom ~78% of the image): six rows, each spanning the full width, with alternating row backgrounds — soft sage ~#E8F0E5 for odd rows and white for even rows. Each row has three columns: label (left, ~50% width), AG1 column (~25%), and multivitamin column (~25%).
+
+Row 1: "Clinical Research" (dark forest-green bold) | green ✓ inside green-fill circle | red ✗ inside red-fill circle
+Row 2: "Probiotics + Prebiotics" (bold, dark green) with "For gut health" beneath in smaller lighter green | green ✓ | red ✗
+Row 3: "Adaptogens" (bold) with "Ashwagandha, Rhodiola" beneath in smaller lighter green | green ✓ | red ✗
+Row 4: "Essential Vitamins" (bold) | green ✓ | green ✓
+Row 5: "Number of Ingredients" (bold) | "75+" in dark forest-green sans-serif | "23" in dark forest-green sans-serif
+Row 6: "NSF Certified for Sport" (bold) | green ✓ | red ✗
+
+Typography is clean modern sans-serif throughout. Iconography is consistent — same green-circle ✓ and red-circle ✗ across all check rows.
+
+This is the standalone ad creative — only the comparison table and product header. No surrounding social platform UI: no brand-row above, no body copy, no link-card footer (no "DRINKAG1.COM | headline | Shop Now"), no engagement counts, no reaction buttons, no "Saved" indicator, no app navigation bars, no iOS device chrome.

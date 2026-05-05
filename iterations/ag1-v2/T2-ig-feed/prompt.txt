@@ -1,0 +1,13 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — an editorial / publication-style ad image. Standalone, ready to upload as a Meta ad creative. White inner background.
+
+Top-left: "FORBES" wordmark in chunky bold black serif on a small white box (the publication's logo, treated as a credibility stamp).
+
+Headline below the logo, large bold black sans-serif tight tracking: "How AG1 Became the Greens Powder Doctors Actually Recommend"
+
+Sub-copy below the headline, regular weight black sans-serif: "Most multivitamins fail bioavailability tests. The brand fronted by Dr. Andrew Huberman built theirs around what your body can actually absorb."
+
+Hero photograph occupies the bottom ~55% of the image: a fit person in athletic wear (no face visible — torso-cropped, soft daylight from upper-left, clean editorial photography), holding a clear AG1 shaker bottle filled with bright vibrant green liquid (visible white "AG1" wordmark on the bottle). In the foreground right of the photo: a deep forest-green AG1 pouch with white "AG1" wordmark, alongside an open forest-green travel canister of green powder, and a small fan of three coral / orange-red AG1 travel sachets beside it. Premium-wellness product photography, soft natural light.
+
+Across the very bottom of the image, an inset deep forest-green band (~#1A4731) about 12% tall, containing white sans-serif headline "Greens, simplified." left-aligned, with a small white "Learn more >" pill on the right edge.
+
+The composition is the standalone ad creative — editorial layout that reads as a publication-co-signed AG1 piece. No social platform UI of any kind: no Instagram or Facebook chrome, no brand row above the image, no engagement counts, no comment input, no "Sponsored" badge, no link card footer beneath, no app navigation bars, no iOS device frame.

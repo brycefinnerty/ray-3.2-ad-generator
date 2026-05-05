@@ -1,0 +1,28 @@
+4:5 mobile Facebook sponsored post, 1080x1350, white background.
+
+Top: brand row — small black square logo with green "H" in stylized monogram (HYROS logo), then "Hyros" in bold black sans-serif. Beneath, in muted grey: "Sponsored · 🌐" globe icon. Three-dot ellipsis far right, then a small X close button.
+
+Below: post body text in regular black sans-serif: "Not using HYROS' new E-Com update is choosing to make less from your ads. Stop. Here's how..." then "See more" in grey.
+
+Below: the ad creative — a vertical dark image, near-black background ~#0A0F0A with subtle radial green glow center.
+
+- Tiny green "+" cross marks in the four corners of the image.
+- Top text in chunky white sans-serif: "This RUINS" on line 1, "E-Com Ad ROAS" on line 2 — the "E-Com" word is colored bright green ~#22D67D, the rest white.
+- Centered below: three small rounded-square icons in a row: a black "YouTube" tile with red rounded play button + the word "YouTube"; then a small angled green "VS" badge in a parallelogram; then a black tile with the green "H" HYROS monogram.
+- Below the icons, a dark comparison table with thin lines:
+  Header row (regular grey caps): "Campaign" | "Tracked by Youtube" | "Tracked by HYROS"
+  The "Tracked by HYROS" column is outlined with a thin green border highlighting it.
+  Row 1: "Christmas campaign" | "$170.00" | "$5,003.00" (HYROS column in green)
+  Row 2: "Final sale" | "$99.00" | "$9,229.00" (HYROS in green)
+  Row 3: redacted/blurred grey label | "$60.00" | "$15,265.00"
+  Row 4: redacted | "-" | "$16,834.00"
+  Row 5 (partially cut off at bottom): redacted | "-" | "$11,110.00"
+  Numbers in monospace IBM Plex / Roboto Mono feel.
+
+Below the ad image: a horizontal link-card style footer with thin grey separator. "hyros.com" small grey caps on the left. Bold black sans-serif headline: "HYROS AI AD Attribution Grew ECOM ROAS By 24%". On the right: a grey-bordered "Learn more" button.
+
+Below: engagement row — small thumbs-up + heart reaction icons, then "15"; on the right side: "3 comments  1 share" in muted grey.
+
+Below: standard Facebook action bar — three evenly-spaced buttons: "👍 Like", "💬 Comment", "↪ Share", each with small grey icon and dark grey text.
+
+Pixel-faithful to a real Facebook mobile sponsored-post screenshot.

@@ -1,0 +1,22 @@
+2:3 portrait static ad creative, 1080x1620, edge-to-edge — a dark-mode comparison ad image. Standalone, upload-ready as a Meta ad creative. Near-black background ~#0A1A12 with a subtle radial deep-green glow at the center.
+
+Tiny green "+" cross marks in the four corners of the image (decorative tick marks).
+
+Top text in chunky white sans-serif (large, ~80pt feel), stacked across two lines centered horizontally: "This RUINS" on line 1, "Your Greens Powder" on line 2 — the word "Greens" is colored bright vivid green ~#3FCB7E, the rest white.
+
+Centered below the headline, a row of three small rounded-square icons:
+- Left tile: black background with a stylized white capsule/pill graphic on it, captioned with small white text "Generic Greens" beneath.
+- Middle: a small angled bright-green "VS" badge in a parallelogram shape.
+- Right tile: deep forest-green background with white "AG1" wordmark stamped boldly.
+
+Below the icons, a dark comparison table with thin light-grey grid lines:
+- Header row in regular grey caps: "Ingredient" | "Generic Greens" | "AG1"
+- The "AG1" column is outlined / highlighted with a thin bright-green border framing it.
+- Row 1: "Total ingredients" | "12" | "75+" (AG1 column number rendered in bright green)
+- Row 2: "Adaptogens" | "0" | "9" (AG1 in green)
+- Row 3: "Probiotic strains" | "1" | "7+" (AG1 in green)
+- Row 4: "Sugar per serving" | "8g" | "<1g" (AG1 in green)
+- Row 5: "Clinically dosed" | "—" | "✓" (AG1 column shows green ✓)
+- Numbers in monospace IBM Plex Mono / Roboto Mono feel; labels in regular sans-serif.
+
+The composition is the standalone dark-mode ad creative ONLY — no surrounding platform UI: no brand-row above (no AG1 avatar + handle + Sponsored), no body copy / caption, no link-card footer beneath ("drinkag1.com | headline | Learn more"), no engagement row (likes, comments, shares), no Like/Comment/Share action bar, no app navigation, no iOS chrome.

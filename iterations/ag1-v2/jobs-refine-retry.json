@@ -1,0 +1,16 @@
+[
+  {
+    "name": "T11-comment-v3",
+    "prompt_path": "iterations/ag1-v2/T11-comment-thread-v3/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T11-comment-thread-v3"
+  },
+  {
+    "name": "T14-slack-v2",
+    "prompt_path": "iterations/ag1-v2/T14-fake-slack-v2/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T14-fake-slack-v2"
+  }
+]

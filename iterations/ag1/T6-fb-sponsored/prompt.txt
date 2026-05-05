@@ -1,0 +1,28 @@
+2:3 mobile Facebook sponsored post, 1080x1620, white background.
+
+Top: brand row — small forest-green square logo with white "AG1" wordmark in chunky bold sans-serif, then "AG1" in bold black sans-serif. Beneath, in muted grey: "Sponsored · 🌐" globe icon. Three-dot ellipsis far right, then a small X close button.
+
+Below: post body text in regular black sans-serif: "Most greens powders are just expensive sugar. AG1 isn't. Here's why our formula actually works..." then "See more" in grey.
+
+Below: the ad creative — a vertical dark image, near-black background ~#0A1A12 with subtle radial deep-green glow center.
+
+- Tiny green "+" cross marks in the four corners of the image.
+- Top text in chunky white sans-serif: "This RUINS" on line 1, "Your Greens Powder" on line 2 — the word "Greens" is colored bright green ~#3FCB7E, the rest white.
+- Centered below: three small rounded-square icons in a row: a black tile with a stylized white capsule/pill graphic + the text "Generic Greens"; then a small angled green "VS" badge in a parallelogram; then a forest-green tile with the white "AG1" monogram.
+- Below the icons, a dark comparison table with thin lines:
+  Header row (regular grey caps): "Ingredient" | "Generic Greens" | "AG1"
+  The "AG1" column is outlined with a thin green border highlighting it.
+  Row 1: "Total ingredients" | "12" | "75+" (AG1 column in green)
+  Row 2: "Adaptogens" | "0" | "9" (AG1 in green)
+  Row 3: "Probiotic strains" | "1" | "7+"
+  Row 4: "Sugar per serving" | "8g" | "<1g"
+  Row 5 (partially cut off at bottom): "Clinically dosed" | "—" | "✓"
+  Numbers in monospace IBM Plex / Roboto Mono feel.
+
+Below the ad image: a horizontal link-card style footer with thin grey separator. "drinkag1.com" small grey caps on the left. Bold black sans-serif headline: "AG1 Has 2x The Active Ingredients At Half The Sugar". On the right: a grey-bordered "Learn more" button.
+
+Below: engagement row — small thumbs-up + heart reaction icons, then "847"; on the right side: "62 comments  18 shares" in muted grey.
+
+Below: standard Facebook action bar — three evenly-spaced buttons: "👍 Like", "💬 Comment", "↪ Share", each with small grey icon and dark grey text.
+
+Pixel-faithful to a real Facebook mobile sponsored-post screenshot.

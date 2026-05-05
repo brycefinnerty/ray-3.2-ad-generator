@@ -1,0 +1,29 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a clean ingredient-breakdown ad layout. Standalone, ready to upload as a Meta ad creative. Soft cream / warm off-white background ~#F5F1EA.
+
+LEFT HALF (~55% width): a vertical list of five ingredient names, generously spaced, each on its own line, with a thin hairline grey horizontal divider beneath each. Typography: clean black sans-serif (Inter / Söhne feel), regular weight, ~28-32pt size, left-aligned. The list reads top-to-bottom:
+
+Spirulina
+———————————
+Ashwagandha
+———————————
+Probiotic Blend
+———————————
+Vitamin C Complex
+———————————
+75+ Total Ingredients
+
+(After each ingredient name, the thin grey hairline runs to the right edge of the left half.)
+
+RIGHT HALF (~45% width): a vertical photo collage that visually represents each ingredient, rendered as a tall stack of small rectangular product photographs flowing into the AG1 product itself. Stack reads top to bottom:
+- Top tile: extreme close-up of vibrant green spirulina powder texture
+- Tile 2: a hand holding a small bunch of dried ashwagandha root with rough fibrous texture
+- Tile 3: out-of-focus probiotic capsules / agar petri dish in soft warm light
+- Tile 4: cross-section of a sliced citrus / orange wedge with bright pulp visible
+
+These four small ingredient tiles are stacked vertically inside a tall vertical "window" cut-out shape on the right.
+
+Just to the right of (or overlapping the bottom of) the collage stack: the actual AG1 product — a tall deep forest-green AG1 pouch with white "AG1" wordmark prominently visible, standing upright, occupying the bottom-right portion of the frame. The pouch slightly overlaps the ingredient-stack column, creating depth. Soft natural daylight, premium product photography aesthetic.
+
+The composition reads as: list of what's inside on the left, visual proof of those ingredients flowing into the product on the right.
+
+No additional text, no logos beyond the AG1 wordmark on the pouch.

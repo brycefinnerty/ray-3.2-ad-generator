@@ -1,0 +1,25 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake Slack-style team conversation rendered as a standalone ad creative.
+
+Top section (~12% height): a Slack-style window header bar — deep aubergine / dark plum background ~#3F0E40 spanning the full width. Left edge has three small rounded dots (red / yellow / green window controls). To the right of the dots, a small back arrow + forward arrow + clock-history icon, then a centered rounded grey search-bar pill containing a small magnifier icon and the word "Search". Far right: a small cartoon profile avatar (~24px).
+
+Below the header, a thin grey divider, then the main chat content area (white background ~#FFFFFF, ~88% of the image):
+
+Channel header row: in bold black sans-serif (~22pt), left-aligned: "#wellness-team" with a small dropdown chevron beside it. Far right: a small "12" face-pile of three tiny avatar circles + member count.
+
+Below the channel header, a vertical message thread with three messages:
+
+Message 1:
+- Left: a small rounded-square avatar (~44px) — illustrated cartoon figure of a smiling person.
+- Right: bold black "Sarah (Marketing)" + small grey "10:42 AM" beside it. Below: regular black sans-serif text "Anyone else trying that AG1 stuff? Day 14 and I haven't reached for coffee once 😳"
+
+Message 2:
+- Left: small avatar — illustrated cartoon woman with red hair.
+- Right: bold black "Maria (Founder)" + small grey "10:43 AM". Below: "Wait, AG1?"
+
+Message 3:
+- Left: same avatar as Message 1 (Sarah).
+- Right: bold black "Sarah (Marketing)" + "10:45 AM". Below: "Yeah, picked it up after Huberman kept mentioning it. Whole-day-in-one-scoop type vibe. The travel sachets are clutch. 🌿"
+
+Below the messages, centered: a large green pill-shaped CTA button with rounded corners (~#3FCB7E or AG1 forest green ~#1A4731), containing bold black uppercase sans-serif text "TRY AG1 →" centered.
+
+The composition reads as a believable Slack team-chat snapshot — but rendered as a static ad creative. No additional UI: no Slack sidebar (no workspace switcher, no channel list, no DM list), no message-input box at the bottom, no app navigation, no iOS or desktop OS chrome.

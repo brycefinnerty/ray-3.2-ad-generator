@@ -1,0 +1,36 @@
+2:3 portrait static ad creative, 1080x1620, edge-to-edge — a real-world photograph of a hand-held whiteboard or foam posterboard with hand-written marker comparison content. Standalone ad creative, ready to upload as a Meta ad creative.
+
+Composition: a single hand (visible from the wrist down at the bottom of the frame, slightly off-center, holding the bottom edge of the board) presents a white rectangular dry-erase whiteboard at a slight tilt. The board occupies roughly the central 70% of the frame — its top edge is at least 12% below the top of the canvas, and its bottom edge is at least 18% above the bottom of the canvas (where the hand and out-of-focus background are visible). The board is photographed in a soft-focus modern kitchen counter / bright open patio environment in the background, with bright natural daylight and shallow depth of field.
+
+The board content is hand-written in chunky permanent marker, slightly imperfect lettering, mixed colors (deep forest green for the brand side, dim grey-black for the competitor side), with hand-drawn underlines for emphasis:
+
+Top of board, large hand-lettered title centered (this title MUST be fully visible — its top must sit at least 8% below the canvas top, never clipped):
+"5 Reasons Why"
+(underlined twice with a hand-drawn line beneath)
+
+Just below the title, in two columns separated by a hand-drawn ">" character:
+LEFT column header (deep forest green marker, large, underlined twice): "AG1"
+">" symbol in dim grey marker between the two
+RIGHT column header (dim grey marker, large): "Generic Multivitamins"
+
+Below the headers, two columns of bullet points separated by a vertical hand-drawn line:
+
+LEFT column (deep forest green marker, bullets are filled circles or stars, plain words only — NO emoji, NO unicode symbols beyond bullet markers):
+- Clinically Dosed
+- 75+ Ingredients
+- NSF Certified
+- Travel Sachets
+- One Scoop Daily
+
+RIGHT column (dim grey marker, bullets are X marks or dashes, plain words only):
+- Hidden Fillers
+- 12-Pill Stack
+- No Clinical Data
+- Bulky Bottles
+- Cheap Blends
+
+Hand-lettering is organic and imperfect — slightly uneven baseline, varied stroke weight, occasional marker bleed. Letters look like a real person wrote them, not a font. The TITLE and column headers are fully visible inside the safe zone with comfortable padding.
+
+Photography: bright natural daylight, soft shadows, casual UGC aesthetic — looks like a real screenshot from a Reels video where a creator is showing the board to camera.
+
+No additional text, no overlays, no logos beyond what's hand-written on the board.

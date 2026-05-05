@@ -1,0 +1,17 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a vertical split-screen "before/after" transformation comparison. Standalone ad creative, ready to upload as a Meta ad creative.
+
+The image is divided EXACTLY down the center by a hairline 2px white vertical divider into two equal-width halves. No frame around either side.
+
+LEFT HALF (50% width) — "HOW IT STARTED":
+- Background tone: muted desaturated grey-beige ~#D6D2CC.
+- Top of half, centered, in bold black uppercase sans-serif (~28pt, modern geometric — Söhne / GT America feel): "HOW IT STARTED"
+- Centered below the headline (the bottom 75% of the half): a chaotic flat-lay photograph of a cluttered bathroom counter or kitchen counter showing a dozen+ generic supplement bottles of varying sizes, brands, and colors all crammed together — multivitamin bottles, fish-oil tubs, probiotic capsules, vitamin D pills, magnesium powder, etc. Some bottles tipped over, some with caps off, slightly chaotic and overwhelming. Dim natural light, slight desaturation. Conveys the "12-pill stack" pain.
+
+RIGHT HALF (50% width) — "HOW IT'S GOING":
+- Background tone: warm bright cream ~#F5F1EA.
+- Top of half, centered, in bold black uppercase sans-serif (same size/font as left): "HOW IT'S GOING"
+- Centered below the headline (the bottom 75% of the half): a clean, beautifully-styled flat-lay photograph of a single deep forest-green AG1 pouch (white "AG1" wordmark prominent), a clear shaker bottle of vibrant green liquid, and three coral / orange-red AG1 travel sachets neatly fanned out. Bright natural daylight, premium wellness aesthetic, calm and minimal. The contrast with the left side's chaos is the entire visual joke.
+
+Both halves use IDENTICAL camera angle (top-down 90° flatlay) and identical headline placement and size, so the eye reads the difference as the contrast between the two stages.
+
+No additional text, no logos overlay, no UI chrome.

@@ -1,0 +1,30 @@
+9:16 iPhone screenshot of an Instagram Story, 1080x1920, light grey-cream background ~#F2EEE6.
+
+Top: iOS status bar — "7:18" left, bell-with-slash silent icon, then a small red rec dot; right has 2-bar signal, full wifi, "63" battery in red text with battery icon.
+
+Below the status bar: thin Instagram Story progress segments across the top, all shown in faded white (early in the segment).
+
+Story header row: small circular avatar with a deep forest-green background and white "AG1" wordmark, then "drinkag1" in regular black sans-serif, with "Sponsored" in smaller grey below the handle, and a small X close button on the far right.
+
+Main content: a screenshot of a Twitter/X post pasted onto the Story, occupying roughly the top half of the visible area:
+- White rounded card with thin shadow.
+- Top of card: small round profile photo of a smiling middle-aged man with grey-flecked beard, "Dr. Andrew Huberman" in bold black + a small blue-check verified mark, "@hubermanlab" in grey beneath.
+- Tweet text in black sans-serif:
+"Hot take from a neuroscientist:
+
+AG1 is the only supplement I've stayed on for 4+ years. Here's why:
+
+🔬 75+ ingredients, all clinically dosed
+🧬 Pre + probiotics + adaptogens in one scoop
+✈️ Travel sachets keep me consistent on the road
+💚 No bloating, no caffeine, no aftertaste"
+
+To the right of the tweet card, slightly overlapping it: a vertical 9:16 photo of a fit woman in early-morning workout clothes, light skin, mid-laugh, holding an AG1 shaker bottle (forest green AG1 wordmark visible on the bottle, vibrant green liquid inside) up to her mouth, soft window-light morning kitchen background. Across the lower-mid of the photo, a black rounded-rectangle overlay text label: "Watch this BEFORE / you skip your greens 🌿" in white sans-serif.
+
+Below the tweet+photo block, a faint cursive italic line in black: "75+ ingredients in one daily scoop..." then "more" in grey-blue underline.
+
+Below that, centered, in cursive blue: "🔗 LEARN MORE" — a link-chain icon then "LEARN MORE" caps.
+
+Bottom: a small upward chevron arrow icon centered, indicating swipe-up for next story. The bottom of the screen has a thin black home-indicator bar.
+
+Style: pixel-faithful to a real iPhone Instagram Story screenshot.

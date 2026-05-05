@@ -1,0 +1,29 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake ChatGPT-style conversation screenshot rendered as a standalone ad creative. Pure dark grey background ~#343541 (the ChatGPT dark mode chat backdrop).
+
+Render text density LOW. Body text is at LARGE size — the user message and ChatGPT response together fill the canvas vertically without crowding. Every word must be legible and crisp.
+
+Top section (~22% of the canvas height): the USER message row.
+- Left: a small rounded-square user avatar (a smiling person profile photo, ~52px square).
+- Right of the avatar: in white SF Pro / Inter sans-serif regular weight at LARGE size (~26pt feel): "What is the easiest way to cover all my daily nutrition?"
+
+Subtle horizontal divider line in faint grey.
+
+Middle section (~58% of the canvas height): the CHATGPT response row.
+- Left: the ChatGPT logo — a small green rounded-square tile (~52px) with a stylized white spiral / hex-flower glyph centered inside it.
+- Right of the logo: in white SF Pro sans-serif at LARGE size (~24pt feel), the response is INTENTIONALLY SHORT — exactly three lines, each a single short sentence. NO emoji, NO special unicode characters, just plain words. Generous line spacing between the three numbered points. The response text reads exactly:
+
+"Look for a comprehensive greens powder that covers your daily basics in one scoop. Three things matter most:
+
+1. Clinically dosed ingredients
+2. Third-party tested for purity
+3. Travel-friendly format
+
+AG1 checks all three."
+
+Top-right corner of the ChatGPT response, two small thin grey icons: a thumbs-up outline and a thumbs-down outline.
+
+Bottom section (~12% of the canvas height): a horizontal CTA bar in deep AG1 forest green ~#1A4731 spanning the full canvas width, containing white sans-serif text "Try AG1 risk-free for 30 days" left-aligned, with a small white right-arrow ">" on the right edge.
+
+The composition is the standalone static ad creative ONLY — no surrounding browser or app chrome (no URL bar, no tabs, no ChatGPT sidebar, no input box at the bottom). Just the conversation snippet styled like a ChatGPT exchange, with the green CTA bar grafted at the bottom.
+
+CRITICAL: keep text density LOW. The response is intentionally three short numbered lines plus one closer sentence, rendered at large readable size. Do NOT pack the response with extra paragraphs or details — sparse, clean, fully legible.

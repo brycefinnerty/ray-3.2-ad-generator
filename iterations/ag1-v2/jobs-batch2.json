@@ -1,0 +1,37 @@
+[
+  {
+    "name": "T12-fake-chatgpt",
+    "prompt_path": "iterations/ag1-v2/T12-fake-chatgpt/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T12-fake-chatgpt"
+  },
+  {
+    "name": "T15-ingredient-list",
+    "prompt_path": "iterations/ag1-v2/T15-ingredient-list/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T15-ingredient-list"
+  },
+  {
+    "name": "T10-letter-board",
+    "prompt_path": "iterations/ag1-v2/T10-letter-board/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T10-letter-board"
+  },
+  {
+    "name": "T14-fake-slack",
+    "prompt_path": "iterations/ag1-v2/T14-fake-slack/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T14-fake-slack"
+  },
+  {
+    "name": "T11-comment-thread-v2",
+    "prompt_path": "iterations/ag1-v2/T11-comment-thread-v2/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T11-comment-thread-v2"
+  }
+]

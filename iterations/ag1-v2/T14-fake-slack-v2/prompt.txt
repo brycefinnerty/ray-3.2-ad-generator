@@ -1,0 +1,30 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake Slack-style team conversation rendered as a standalone ad creative. EXACTLY THREE messages, no more, no fewer.
+
+Top section (~10% height): a Slack-style window header bar — deep aubergine / dark plum background ~#3F0E40 spanning the full canvas width. Left edge: three small rounded dots (red / yellow / green window controls). To the right of the dots, a small back arrow + forward arrow + clock-history icon, then a centered rounded grey search-bar pill containing a small magnifier icon and the word "Search". Far right: a small cartoon profile avatar (~24px).
+
+Below the header, a thin grey divider, then the main chat content area (white background ~#FFFFFF, ~90% of the canvas):
+
+Channel header row: in bold black sans-serif (~22pt), left-aligned, with comfortable padding from the canvas left edge: "#wellness-team" with a small dropdown chevron beside it. Far right (with safe-zone padding from canvas right edge): a small "12" face-pile of three tiny avatar circles + member count.
+
+Below the channel header, a vertical thread of EXACTLY THREE messages. Each message has the same row structure: avatar on left, message content on right. Plain text only — NO emoji, NO unicode symbols, NO special characters in the message bodies.
+
+MESSAGE 1:
+- Avatar (left, ~44px rounded square): illustrated cartoon figure of a smiling brunette woman.
+- Right of avatar: bold black "Sarah (Marketing)" + small grey "10:42 AM" beside it.
+- Below the name row: regular black sans-serif text in a single paragraph: "Anyone else trying that AG1 stuff? Day 14 and I have not reached for coffee once."
+
+MESSAGE 2:
+- Avatar (left): illustrated cartoon woman with red hair.
+- Right of avatar: bold black "Maria (Founder)" + small grey "10:43 AM".
+- Below: regular black sans-serif: "Wait, AG1?"
+
+MESSAGE 3:
+- Avatar (left): same brunette cartoon as Message 1 (Sarah).
+- Right of avatar: bold black "Sarah (Marketing)" + small grey "10:45 AM".
+- Below: regular black sans-serif: "Yeah, picked it up after Huberman kept mentioning it. One scoop covers the whole day. Travel sachets are clutch."
+
+Below the third message, with comfortable vertical spacing, centered horizontally and well within the safe zone (at least 10% padding from the canvas bottom): a large pill-shaped CTA button with rounded corners, deep AG1 forest green fill (~#1A4731), containing bold WHITE uppercase sans-serif text "TRY AG1" with a small white right-arrow ">" beside it.
+
+The composition reads as a believable Slack team-chat snapshot — but rendered as a standalone static ad creative. No additional UI: no Slack sidebar (no workspace switcher, no channel list, no DM list), no message-input box at the bottom of the chat, no app navigation, no iOS or desktop OS chrome.
+
+EXACTLY three messages — do not invent a fourth. Plain text only — no emoji or special glyphs in the message bodies.

@@ -1,0 +1,27 @@
+9:16 mobile screenshot of the Apple Notes app on iPhone, 1080x1920, pixel-faithful to iOS 17 Notes. Pure white background.
+
+Top: iOS status bar — "6:42" left in SF Pro semibold black, then a small bell-with-slash silent-mode glyph; right side has 2-bar cell signal, full wifi, and a near-empty red battery icon at ~6%.
+
+Below the status bar: Apple Notes navigation header. Left: orange "< Notes" back chevron + label. Center: two orange icons — a forward-arrow circle (redo) and a circular refresh arrow. Right: a share-square icon and an ellipsis-in-circle icon, both grey.
+
+Below the header, centered small grey text: "March 14, 2026 at 6:42 AM"
+
+Then bold black SF Pro title: "Why I Switched To AG1 🌿" — with a small green leaf emoji next to it.
+
+Then a vertical list of 10 unchecked checklist items. Each row: a hollow grey circle bullet on the left, then the item text in regular black SF Pro with emoji decorations interleaved. Items (verbatim):
+1. Less time meal-prepping ⏱️🥗
+2. No more 12-pill morning stack 💊→🌱
+3. Travel-friendly sachets ✈️🍃
+4. Easier to actually drink 💚
+5. Backed by clinical research 🔬
+6. Endorsed by people I trust 👥
+7. One scoop, one minute ⏲️
+8. Berry flavor I don't gag on 🫐
+9. Fewer "did I take my vitamins?" thoughts 🧠
+10. More energy by 10am ⚡
+
+Generous vertical spacing, items left-aligned with consistent left padding from the bullet.
+
+Bottom of screen: Apple Notes toolbar with four icons evenly spaced — orange checklist/list icon (active), camera icon, "A" inside a circle (text style), and a pencil-edit-square icon.
+
+No keyboard visible. No selected/highlighted state. The screen looks calm and unstyled, like a real personal note. The note's content is conversational and honest — like a real customer's private journal entry, not marketing copy.

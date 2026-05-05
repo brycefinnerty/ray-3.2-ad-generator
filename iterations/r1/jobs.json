@@ -1,0 +1,51 @@
+[
+  {
+    "name": "T7-sticky-note",
+    "prompt_path": "iterations/r1/T7-sticky-note/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_4.jpg",
+    "aspect": "1:1",
+    "out_dir": "iterations/r1/T7-sticky-note"
+  },
+  {
+    "name": "T1-ios-notes",
+    "prompt_path": "iterations/r1/T1-ios-notes/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_3.jpg",
+    "aspect": "9:16",
+    "out_dir": "iterations/r1/T1-ios-notes"
+  },
+  {
+    "name": "T2-ig-feed",
+    "prompt_path": "iterations/r1/T2-ig-feed/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_2.jpg",
+    "aspect": "9:16",
+    "out_dir": "iterations/r1/T2-ig-feed"
+  },
+  {
+    "name": "T3-ig-story",
+    "prompt_path": "iterations/r1/T3-ig-story/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_29.jpg",
+    "aspect": "9:16",
+    "out_dir": "iterations/r1/T3-ig-story"
+  },
+  {
+    "name": "T4-google-search",
+    "prompt_path": "iterations/r1/T4-google-search/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_11.jpg",
+    "aspect": "9:16",
+    "out_dir": "iterations/r1/T4-google-search"
+  },
+  {
+    "name": "T5-saved-fb-comparison",
+    "prompt_path": "iterations/r1/T5-saved-fb-comparison/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_6.jpg",
+    "aspect": "4:5",
+    "out_dir": "iterations/r1/T5-saved-fb-comparison"
+  },
+  {
+    "name": "T6-fb-sponsored",
+    "prompt_path": "iterations/r1/T6-fb-sponsored/prompt.txt",
+    "ref_path": "Ad References/cellImage_0_7.jpg",
+    "aspect": "4:5",
+    "out_dir": "iterations/r1/T6-fb-sponsored"
+  }
+]

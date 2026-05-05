@@ -1,0 +1,26 @@
+Mobile-format Facebook "Saved Ad" view, 4:5 aspect ratio, light grey page background with a centered white card with rounded 12px corners and subtle drop shadow.
+
+Top of card: a circular brand avatar (small dark blue circle with "More" in white sans-serif) on the left, then "More Labs" in black sans-serif beside it, then a faint green dot followed by "Saved 1 year ago" in muted grey, all on one row.
+
+Below the brand row, in regular black sans-serif (Helvetica/Inter feel):
+"Created by doctors and backed by science, Morning Recovery can help you get back on your feet quicker after drinking 🥂
+
+Morning Recovery is: caffeine free, gluten free, vegan, nut free, and contains no artificial flavors."
+
+Then the comparison-table image fills the rest of the card. Inside that image:
+
+Left side of header: "Morning Recovery vs. Pedialyte" in two lines, dark navy bold sans-serif.
+Right side of header: two small product photos in a row — a slim white-and-yellow Morning Recovery bottle and a stocky orange-capped clear Pedialyte bottle.
+
+Below the header, a six-row comparison table with alternating light-blue (~#E5F0F8) and white row backgrounds:
+
+Row 1: "Clinically Proven" (dark navy bold) | green ✓ in green-fill circle | red ✗ in red-fill circle
+Row 2: "Liver Support" (bold) + "DHM & Milk Thistle" (smaller, light navy) | green ✓ | red ✗
+Row 3: "Essential Vitamins" + "Vitamin C & B Complex" (smaller) | green ✓ | red ✗
+Row 4: "Electrolytes" | green ✓ | green ✓
+Row 5: "Grams of Sugar" | "0g" in dark navy sans-serif | "9g" in dark navy sans-serif
+Row 6: "For When You Drink" | green ✓ | red ✗
+
+Bottom of the white card (below the table image): in small grey caps "GET.MORELABS.COM", then a black sans-serif headline "Get Morning Recovery Today - Backe..." truncated mid-word, with a small bordered "Shop Now" button on the right.
+
+Pixel-faithful to a real Facebook saved-ad screenshot.

@@ -1,0 +1,21 @@
+9:16 iPhone mobile screenshot, 1080x1920. White background fading to soft pink at the bottom 30%.
+
+Top: iOS status bar — "8:40" left, bell-with-slash silent icon; right has 2-bar signal, full wifi, "100" battery green percent.
+
+Below: top app row — a small grey hamburger-menu icon on the left; centered, the multicolor "Google" wordmark (capital G blue, o red, o yellow, g blue, l green, e red) in the standard Google Sans typeface; on the right, a small color microphone icon.
+
+Below: a rounded-pill grey search bar with a magnifier icon on the left and the text "The BEST drink for brain fog" in standard sans-serif. On the right inside the pill, a small Google Lens icon (multicolor camera/diamond shape).
+
+Below: a horizontal tab row "All  Videos  Images  News  Maps  Books" with "All" underlined in faint blue, others in muted grey.
+
+Main area: a 2x2 grid of square image search results, with subtle rounded corners and a slight gap between them. All four tiles have a soft pink background:
+- Top-left: a pink/lavender backdrop with a mushroom-coffee product pouch in soft pink, a clear glass mug filled with a creamy brown drink, and a small chocolate square next to it.
+- Top-right: a pink backdrop with a wooden spoon mid-air spilling brown chocolate-cocoa powder into a small mound below.
+- Bottom-left: a pink-background portrait of a blonde woman with sun-kissed skin, smiling brightly toward the camera, holding a tall glass to her mouth with both hands.
+- Bottom-right: a pink backdrop with a soft packaging pouch (matte hot pink) tilted, with thick chocolate sauce dripping from its open mouth onto the surface; faint white "space goods"-style logo on the pouch.
+
+Below the grid, soft pink area: in small spaced caps "AS SEEN ON" in muted grey, then below a horizontal row of four magazine wordmarks in classic serif typefaces: italic serif "marie claire", bold black "GQ", "Men's Health" with a stylized M, italic serif "Esquire".
+
+Bottom: thin black iPhone home-indicator bar centered.
+
+Pixel-faithful to a real Google mobile search-results screenshot.

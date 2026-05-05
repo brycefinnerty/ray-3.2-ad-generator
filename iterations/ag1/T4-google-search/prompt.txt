@@ -1,0 +1,21 @@
+9:16 iPhone mobile screenshot, 1080x1920. White background fading to soft cream/sage at the bottom 30%.
+
+Top: iOS status bar — "8:40" left, bell-with-slash silent icon; right has 2-bar signal, full wifi, "100" battery green percent.
+
+Below: top app row — a small grey hamburger-menu icon on the left; centered, the multicolor "Google" wordmark (capital G blue, o red, o yellow, g blue, l green, e red) in the standard Google Sans typeface; on the right, a small color microphone icon.
+
+Below: a rounded-pill grey search bar with a magnifier icon on the left and the text "The BEST greens powder for energy and gut health" in standard sans-serif. On the right inside the pill, a small Google Lens icon (multicolor camera/diamond shape).
+
+Below: a horizontal tab row "All  Videos  Images  News  Maps  Books" with "All" underlined in faint blue, others in muted grey.
+
+Main area: a 2x2 grid of square image search results, with subtle rounded corners and a slight gap between them. All four tiles have a soft cream-to-sage background:
+- Top-left: a cream backdrop with a deep forest-green AG1 pouch (white "AG1" wordmark prominent), a clear shaker bottle filled with bright vibrant green liquid beside it, and a small wooden scoop of green powder spilled in front.
+- Top-right: a soft sage backdrop with a hand mid-air pouring a single coral/orange-red AG1 travel sachet of green powder into a clear glass of water — green plume diffusing into the water.
+- Bottom-left: a cream-background portrait of a sun-kissed brunette woman in a workout top, smiling brightly toward the camera, holding an AG1 shaker bottle with both hands, mid-sip.
+- Bottom-right: a cream backdrop with the AG1 forest-green travel canister tipped slightly, a small AG1 shaker beside it, and three coral/orange-red travel sachets fanned out — clean premium-wellness product photography.
+
+Below the grid, soft cream area: in small spaced caps "AS SEEN ON" in muted grey, then below a horizontal row of four publication wordmarks in classic typefaces: bold black serif "FORBES", italic serif "Vogue", bold "Men's Health" with stylized M, italic serif "The Wall Street Journal".
+
+Bottom: thin black iPhone home-indicator bar centered.
+
+Pixel-faithful to a real Google mobile search-results screenshot.

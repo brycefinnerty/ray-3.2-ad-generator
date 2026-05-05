@@ -1,0 +1,27 @@
+9:16 mobile screenshot of the Apple Notes app on iPhone, 1080x1920, pixel-faithful to iOS 17 Notes. Pure white background.
+
+Top: iOS status bar — "5:28" left in SF Pro semibold black, then a small bell-with-slash silent-mode glyph; right side has 2-bar cell signal, full wifi, and a near-empty red battery icon at ~6%.
+
+Below the status bar: Apple Notes navigation header. Left: orange "< Notes" back chevron + label. Center: two orange icons — a forward-arrow circle (redo) and a circular refresh arrow. Right: a share-square icon and an ellipsis-in-circle icon, both grey.
+
+Below the header, centered small grey text: "January 2, 2024 at 5:28 PM"
+
+Then bold black SF Pro title: "Important Tapes To Digitize" with a VHS tape emoji 📼 next to it.
+
+Then a vertical list of 10 unchecked checklist items. Each row: a hollow grey circle bullet on the left, then the item text in regular black SF Pro with emoji decorations interleaved. Items (verbatim):
+1. Lily's First Steps 🥹💃 - June 15, 2023
+2. Max and Emma's Wedding 👰‍♂️🤵‍♂️
+3. Grandpa Joe's 80th Birthday 🎂🎉 - March 21, 2024
+4. Sophia's Graduation Day 🎓🎓
+5. The Johnsons' Family Reunion 👪👪 - August 5, 2022
+6. Ethan's First Day at School 🎒📚
+7. Ava's Retirement Party 🥳🎈
+8. Christmas with the Wilsons 🎄❄️ - December 25, 2023
+9. Uncle Mike's Barbecue Bash 🍔🥩
+10. Hannah's First Marathon 🏃‍♀️🏁
+
+Generous vertical spacing, items left-aligned with consistent left padding from the bullet.
+
+Bottom of screen: Apple Notes toolbar with four icons evenly spaced — orange checklist/list icon (active), camera icon, "A" inside a circle (text style), and a pencil-edit-square icon.
+
+No keyboard visible. No selected/highlighted state. The screen looks calm and unstyled, like a real personal note.

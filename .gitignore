@@ -1,0 +1,49 @@
+# --- secrets ---
+.env
+.env.local
+.env.*.local
+
+# --- macOS ---
+.DS_Store
+**/.DS_Store
+
+# --- generated outputs ---
+# All Luma uni-1 outputs and audit logs from real runs
+generated/
+
+# All PNG/JPG outputs inside iterations/ — keep the .txt prompts and .json
+# job specs (they're the actual library examples), drop the images
+iterations/**/*.png
+iterations/**/*.jpg
+iterations/**/*.jpeg
+
+# --- skill state (per-account cache; populated at runtime) ---
+# The committed copy is the empty stub at skills/uni1-image-ad/state.json
+# Live state in ~/.claude/skills/ (when symlinked) is also gitignored via
+# the symlink — but in case someone copies instead of symlinking, ignore
+# anything that gets written there.
+skills/uni1-image-ad/state.json.local
+
+# --- brand-specific assets (gitignored to avoid shipping copyrighted material) ---
+ag1-assets/
+
+# --- one-off test artifacts ---
+dog.png
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# --- editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- temp ---
+*.tmp
+*.bak

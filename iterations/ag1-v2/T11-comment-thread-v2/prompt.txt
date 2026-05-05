@@ -1,0 +1,30 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake Facebook-style comment thread between a user and the brand, paired with a product photograph beneath. Standalone ad creative, ready to upload. Light grey background ~#F0F2F5.
+
+Upper half (~55% of the image): a vertically-stacked back-and-forth conversation rendered in Facebook comment-bubble style. Each comment is a rounded grey speech-bubble (~#E4E6EB) with the commenter's name in bold black above the bubble text, a small circular profile avatar to the left, and a small "Like · Reply · 9 likes" engagement metadata row beneath each bubble. A faint thin grey line connects the bubbles vertically (the FB comment-thread connector line).
+
+Comment 1 (USER, top-left aligned):
+- Avatar: small circular photo of a smiling brunette woman (~36px)
+- Name: "Sarah K." in bold black sans-serif
+- Bubble text: "Has anyone actually tried AG1? Worth the price?"
+- Beneath bubble: "3h    Like    Reply    14 likes" in small grey
+
+Comment 2 (BRAND REPLY, slightly indented right, with a thin grey connector line from comment 1):
+- Avatar: a small circular green AG1 logo (deep forest-green ~#1A4731 with white "AG1" wordmark)
+- Name: "AG1" in bold black + a small blue verified checkmark
+- Bubble text — IMPORTANT: render this as plain text only, NO emoji characters, NO special unicode glyphs:
+
+  "Hi Sarah! You're 3 steps away from finding out:
+
+  1. Pick your starter pack
+  2. Try AG1 risk-free for 30 days
+  3. Wake up actually energized
+
+  Most people feel a difference within a week."
+
+- Beneath bubble: "2h    Like    Reply    47 likes" in small grey
+
+Lower half (~45% of the image): a clean product photograph of the AG1 product set on a soft warm-cream background — a deep forest-green AG1 pouch with white "AG1" wordmark, alongside a clear shaker bottle of vibrant green liquid and a small fan of three coral / orange-red AG1 travel sachets. Editorial product photography, soft natural light. The product photo fills the bottom half edge-to-edge.
+
+The composition feels like a real Facebook comment exchange screenshot, but rendered as a standalone static ad creative.
+
+No additional UI: no FB header, no Sponsored badge, no engagement bar at top/bottom, no comment input, no platform tab navigation, no emoji of any kind anywhere in the message text.

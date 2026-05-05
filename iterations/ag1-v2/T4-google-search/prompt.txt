@@ -1,0 +1,17 @@
+9:16 portrait static ad creative, 1080x1920, edge-to-edge. A "fake Google search results" aesthetic rendered as a standalone upload-ready image. White inner background fading to soft cream / sage at the bottom 30%.
+
+Top of the image (~6% height): a thin top app row — a small grey hamburger-menu icon on the left; centered, the multicolor "Google" wordmark (capital G blue, o red, o yellow, g blue, l green, e red) in the standard Google Sans typeface; on the right, a small color microphone icon.
+
+Below that: a rounded-pill grey search bar with a magnifier icon on the left and the text "The BEST greens powder for energy and gut health" in standard sans-serif. On the right inside the pill, a small Google Lens icon (multicolor camera/diamond shape).
+
+Below the search bar: a horizontal tab row "All  Videos  Images  News  Maps  Books" with "All" underlined in faint blue, others in muted grey. Hairline divider beneath.
+
+Main area: a 2x2 grid of square image search results with subtle rounded corners and small gaps between them. All four tiles have a soft cream-to-sage background:
+- Top-left: cream backdrop, deep forest-green AG1 pouch (white "AG1" wordmark prominent), a clear shaker bottle filled with bright vibrant green liquid beside it, a small wooden scoop of green powder spilled in front.
+- Top-right: soft sage backdrop, a hand mid-air pouring a single coral/orange-red AG1 travel sachet of green powder into a clear glass of water — green plume diffusing into the water.
+- Bottom-left: cream-background portrait of a sun-kissed brunette woman in a workout top, smiling brightly toward the camera, holding an AG1 shaker bottle with both hands, mid-sip.
+- Bottom-right: cream backdrop, the AG1 forest-green travel canister tipped slightly, a small AG1 shaker beside it, three coral / orange-red travel sachets fanned out.
+
+Below the grid, soft cream area at the bottom of the image: in small spaced caps "AS SEEN ON" in muted grey, then below a horizontal row of four publication wordmarks in classic typefaces: bold black serif "FORBES", italic serif "Vogue", bold "Men's Health" with stylized M, italic serif "The Wall Street Journal".
+
+The composition reads as a believable "Google search results page" — but it is the standalone static ad creative, edge-to-edge. No iOS device chrome (no status bar, no home-indicator bar). No platform UI beyond the Google search aesthetic itself.
