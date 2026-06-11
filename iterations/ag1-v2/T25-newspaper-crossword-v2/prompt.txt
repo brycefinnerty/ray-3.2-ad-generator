@@ -1,0 +1,29 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a top-down photograph of a fake newspaper page featuring a small partially-filled crossword puzzle, displayed on a wooden coffee-shop table with subtle props. Standalone ad creative.
+
+The newspaper page fills ~75% of the frame, slightly tilted. Cream/beige aged-newsprint texture and crisp serif typography. Subtle warm shadow from morning daylight. Surrounding the newspaper on the wood surface: a small white cup of coffee with steam (top-right corner of frame), a few loose AG1 travel sachets (coral/orange-red) scattered along the top and right edges of the frame, and a green AG1 pouch tucked into the bottom-right corner.
+
+Newspaper layout, top to bottom:
+
+- Masthead: "The AG1 Daily" in classic black serif, large, with a horizontal rule beneath
+- Sub-header: "Tuesday Crossword · March 17, 2026" in small italic serif
+
+- Centered crossword grid: a SMALL 5x5 square grid (only 25 cells total — keep it small so each cell is large enough that letters render legibly). Cells alternate between black squares (separators) and white squares with bold black UPPERCASE Helvetica-style letters inside. Each white cell contains EXACTLY ONE big bold black capital letter, rendered at large readable size (~50pt feel inside its cell).
+
+- The grid has THREE filled-in words crossing each other:
+  - Horizontal across the middle row: "ENERGY" (5 letters fills 5 cells of the middle row, but since grid is 5x5, render this as exactly 5 cells with letters E-N-E-R-G — note: use a 5-letter version like "FOCUS" or "DAILY" to fit; choose "DAILY" so it fits 5 cells horizontally: D-A-I-L-Y)
+  - Vertical down a column intersecting the middle: "CALM" (4 letters: C-A-L-M, vertical, intersecting "DAILY" at the "A")
+  - Vertical down another column: "SCOOP" (5 letters: S-C-O-O-P, vertical, intersecting "DAILY" at "I")
+
+  Adjust if the geometry doesn't fit exactly — the goal is THREE fully-spelled crossing words rendered with ONE big crisp letter per cell, all clearly legible. Black squares fill any cells without letters.
+
+- To the right of the grid, a numbered clue list in small black sans-serif:
+  ACROSS:
+  3. How often you take it
+
+  DOWN:
+  2. The state you're after
+  5. One per day
+
+- Faint "AG1" wordmark watermark at the bottom-right corner of the page in light grey
+
+Photographic style: warm editorial, real newsprint texture, "good morning, coffee + paper" lifestyle moment. The crossword is small but the letters in each cell are big and crisp.

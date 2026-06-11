@@ -1,0 +1,22 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a top-down photograph of a fake premium newspaper page with a crossword puzzle, displayed on a wooden coffee-shop table with subtle props. Standalone ad creative.
+
+The newspaper page fills ~75% of the frame, slightly tilted, with cream/beige aged-newsprint texture and crisp serif typography. Subtle warm shadow from morning light. Surrounding the newspaper on the wood surface: a small white cup of coffee with steam (top-right), a few loose AG1 travel sachets (coral/orange-red), and a fanned edge of an AG1 forest-green pouch (bottom-right corner of frame).
+
+Newspaper layout, top to bottom:
+- Masthead: "The AG1 Daily Crossword" in classic black serif, large
+- Subhead: "Tuesday, March 17, 2026 · Difficulty: Foundational"
+- Centered: a black-and-white crossword grid (~12x12 squares), with these answer words filled in (visible white squares with bold black caps inside): horizontally — ENERGY (across 3), GREENS (across 6), SCOOP (across 8), CALM (across 10); vertically — DAILY (down 2), VITAMINS (down 5), SACHETS (down 9). Empty squares left blank. Black squares as separators.
+- Right column: a numbered list of clues in small black sans-serif:
+  ACROSS:
+  3. Foundation of focus
+  6. What's in every scoop
+  8. One per day
+  10. The state you're after
+  DOWN:
+  2. How often you take it
+  5. 75+ in every dose
+  9. Travel-friendly format
+
+Subtle "AG1" wordmark watermark at the bottom-right corner of the page in faint grey.
+
+Photographic style: warm, editorial, real newsprint texture. The composition feels like a "good morning, coffee + paper" lifestyle moment, but the puzzle is the brand.

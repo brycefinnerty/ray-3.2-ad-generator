@@ -1,0 +1,7 @@
+[
+  {"name": "T25-newspaper-crossword", "prompt_path": "iterations/ag1-v2/T25-newspaper-crossword/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T25-newspaper-crossword"},
+  {"name": "T26-cash-register-receipt", "prompt_path": "iterations/ag1-v2/T26-cash-register-receipt/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T26-cash-register-receipt"},
+  {"name": "T27-handwritten-founder-letter", "prompt_path": "iterations/ag1-v2/T27-handwritten-founder-letter/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "2:3", "out_dir": "iterations/ag1-v2/T27-handwritten-founder-letter"},
+  {"name": "T28-dating-app-swipe", "prompt_path": "iterations/ag1-v2/T28-dating-app-swipe/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "2:3", "out_dir": "iterations/ag1-v2/T28-dating-app-swipe"},
+  {"name": "T29-tiktok-creator", "prompt_path": "iterations/ag1-v2/T29-tiktok-creator/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "9:16", "out_dir": "iterations/ag1-v2/T29-tiktok-creator"}
+]

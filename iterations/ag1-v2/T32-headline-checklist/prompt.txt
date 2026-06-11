@@ -1,0 +1,20 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a clean editorial layout with a bold pain-point headline at top, an unchecked checklist of relatable pain points in the middle, the AG1 product photo in the lower portion, and a calm tagline + brand wordmark at bottom. Standalone ad creative. Pure white background.
+
+Top section (~22% height): a centered bold black sans-serif headline in two stacked lines, large (~60pt feel), tight tracking:
+"BURNED OUT BY YOUR
+SUPPLEMENT ROUTINE?"
+
+Middle section (~32% height, generous vertical spacing): a vertical list of EXACTLY FIVE checklist items, each row consisting of a hollow grey square checkbox on the left + the question text in regular black sans-serif. Items (verbatim):
+☐ Forgetting half your morning pills again
+☐ Bloating from synthetic fillers
+☐ No energy by 10am despite the stack
+☐ Endless scrolling for the "right" supplement
+☐ Wishing it was just one simple step
+
+Lower section (~32% height): a clean centered editorial photograph of the AG1 product — a deep forest-green AG1 pouch with white "AG1" wordmark prominent, alongside a clear shaker bottle of vibrant green liquid. Soft natural light, premium product photography.
+
+Bottom section (~14% height): centered, two stacked lines of black text:
+- Line 1: bold serif: "ONE SCOOP. ZERO COMPROMISES."
+- Line 2: smaller regular sans-serif: "AG1 — foundational nutrition for media buyers, founders, and anyone tired of the supplement aisle. drinkag1.com"
+
+All text and product within the central 84% safe zone. Modern, premium, calm aesthetic.

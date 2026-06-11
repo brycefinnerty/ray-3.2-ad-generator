@@ -137,8 +137,12 @@ def http_post_json(url: str, headers: dict, body: dict, timeout: int = 60) -> di
         headers=headers,
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", errors="replace")[:1000]
+        raise RuntimeError(f"HTTP {e.code} from Luma: {detail}") from e
 
 
 def http_get_json(url: str, headers: dict, timeout: int = 30) -> dict:

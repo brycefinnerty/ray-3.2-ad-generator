@@ -1,0 +1,7 @@
+[
+  {"name": "T30-billboard-ooh", "prompt_path": "iterations/ag1-v2/T30-billboard-ooh/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T30-billboard-ooh"},
+  {"name": "T31-scratch-off-ticket", "prompt_path": "iterations/ag1-v2/T31-scratch-off-ticket/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "2:3", "out_dir": "iterations/ag1-v2/T31-scratch-off-ticket"},
+  {"name": "T32-headline-checklist", "prompt_path": "iterations/ag1-v2/T32-headline-checklist/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T32-headline-checklist"},
+  {"name": "T33-bold-typography-quote", "prompt_path": "iterations/ag1-v2/T33-bold-typography-quote/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T33-bold-typography-quote"},
+  {"name": "T34-imessage-conversation", "prompt_path": "iterations/ag1-v2/T34-imessage-conversation/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "9:16", "out_dir": "iterations/ag1-v2/T34-imessage-conversation"}
+]

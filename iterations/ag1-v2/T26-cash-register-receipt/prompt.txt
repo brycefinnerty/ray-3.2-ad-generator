@@ -1,0 +1,25 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a top-down photograph of a long thermal-printer cash register receipt, slightly crumpled and curled at the bottom edge, lying on a clean cream/beige flat surface. The AG1 product sits to the right of the receipt as a real-world prop. Standalone ad creative.
+
+Receipt details:
+- White thermal paper, slightly textured, long and narrow (about 35% of canvas width, full canvas height plus a curl at the bottom)
+- Header in monospaced black caps: "AG1 WELLNESS CO. / drinkag1.com / 123 Foundation Way / Tuesday, May 6, 2026"
+- A "BENEFITS RECEIVED" label in bold caps
+- Itemized list in monospace, each line: benefit name (left) and "FREE" or a number (right):
+  ENERGY                FREE
+  FOCUS                 FREE
+  CALM                  FREE
+  GUT HEALTH            FREE
+  IMMUNE SUPPORT        FREE
+  MORE ENERGY           +1
+  CONSISTENCY           +1
+  CONFIDENCE            +1
+  ----------------------------
+  SUBTOTAL              FREE
+  TAX                   FREE
+  ----------------------------
+  TOTAL: ONE GREAT DAY
+- Below the total, a faux barcode (vertical black lines) and small footer text "Thank you for prioritizing your day. / drinkag1.com"
+
+The AG1 product (forest-green pouch with white "AG1" wordmark, glass shaker bottle of green liquid, one or two coral travel sachets) sits casually beside the receipt on the right side of the canvas, well within safe-zone padding.
+
+Soft warm natural light from upper-left, gentle shadow under both the receipt and the product. Editorial flat-lay aesthetic, premium-wellness vibe.

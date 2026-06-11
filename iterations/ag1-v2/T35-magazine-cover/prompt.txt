@@ -1,0 +1,28 @@
+2:3 portrait static ad creative, 1080x1620, edge-to-edge — a fake premium wellness magazine cover with the brand product as the hero. Standalone ad creative.
+
+Layout reads as a magazine cover from top to bottom:
+
+TOP MASTHEAD (~14% height): the magazine title "VITALITY" in a chunky bold serif logo, large, centered, in black. Just beneath it in smaller all-caps serif: "THE WELLNESS ISSUE · SUMMER 2026 · ISSUE 16". A thin horizontal hairline divider beneath.
+
+LEFT EDGE (~30% width, vertical column of cover-line text):
+- "Nature's"
+- "Answer to"
+- "Stress" (the headline word in larger bold black serif, ~44pt)
+- Below in smaller regular sans: "Discover the power of ashwagandha"
+- A small bullet-list of three additional cover lines further down, each in caps small serif:
+  "MENTAL CLARITY"
+  "Herbs that help you stay focused"
+  "—"
+  "HOLISTIC WELLNESS"
+  "Simple rituals for a calmer mind"
+  "—"
+  "ADAPTOGEN SUPPORT"
+  "Balance stress and boost resilience"
+
+CENTER (the hero): a large editorial photograph of the AG1 product — a deep forest-green AG1 pouch with white "AG1" wordmark prominent, alongside a clear shaker bottle of vibrant green liquid, occupying the center-right of the cover (~50% of canvas width). Soft natural daylight. The product is the visual focal point of the cover.
+
+UPPER-RIGHT CORNER overlay: a small circular badge in dusty rose color, with white serif text inside reading: "EXCLUSIVE BRAND SPOTLIGHT — Mr. Paid Social"
+
+BOTTOM (~14% height): an inset deep cream band edge-to-edge, with centered serif italic text in dark forest-green: "Rooted in Balance. / Powered by Ashwagandha." Below in tiny caps sans: "PREMIUM HERBAL SUPPLEMENT"
+
+The aesthetic is glossy premium magazine — Vogue / Goop / Real Simple feel. Pixel-faithful to a real magazine cover photograph.

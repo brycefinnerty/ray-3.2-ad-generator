@@ -1,0 +1,25 @@
+2:3 portrait static ad creative, 1080x1620, edge-to-edge — a fake Hinge-style dating app profile card with the AG1 product as the "match" subject. Standalone ad creative. Soft cream/off-white background ~#F8F5F0 fills the entire canvas.
+
+The image renders ONE single profile card, centered, occupying ~85% of the canvas with comfortable safe-zone padding. The card has rounded corners and a subtle drop shadow.
+
+Card content, top to bottom:
+
+1. Header bar (~6% of card height): bold black sans-serif "AG1, 75" (the brand name + ingredient count as "age"). Below: a small black location pin glyph + light grey text "Foundational Nutrition · Here for the long haul"
+
+2. Hero image (~50% of card height): a clean editorial photograph of the AG1 product — a deep forest-green AG1 pouch with white "AG1" wordmark prominent, alongside a clear shaker bottle of vibrant green liquid. Soft cream background continuing from the canvas, premium product photography. A small grey heart icon sits in the bottom-right corner of the photo (the Hinge "like a photo" indicator).
+
+3. Below the photo, two stacked Hinge-style answer prompts. Each prompt has: a small light-grey label ("My most controversial opinion is...", "What I'm looking for..."), then below the label, a black sans-serif answer in larger type. The two prompts read:
+
+PROMPT 1:
+Label: "My most controversial opinion is..."
+Answer: "Multivitamins are a scam. Real foundational nutrition needs 75+ ingredients in one daily scoop."
+
+PROMPT 2:
+Label: "What I'm looking for..."
+Answer: "Someone who shows up consistently. Mornings, travel, busy weeks. Let's build healthy habits together."
+
+Each prompt has a small grey heart icon in its bottom-right corner.
+
+4. Bottom of card (~10% height): two large circular buttons side by side, centered horizontally with a gap between them. Left button: white circle with grey "X" inside (Pass). Right button: pink-purple gradient circle with white "♥" inside (Like).
+
+The composition reads as a real Hinge profile, but rendered as a standalone ad creative.

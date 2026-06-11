@@ -634,6 +634,252 @@ Validated example: `iterations/ag1-v2/T24-phone-in-phone/`
 
 ---
 
+## T25 — Newspaper crossword puzzle
+
+**When to use:** clever editorial brand-puzzle moment. Plays well in lifestyle / wellness categories where a "Sunday morning, coffee and crossword" association is on-brand.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (props the small product accent)
+
+**Variables:** `{newspaper_masthead}` (e.g. "The AG1 Daily"), `{date_string}`, `{across_clues[]}`, `{down_clues[]}`, `{filled_words[]}` (3-4 short crossing words, ≤5 letters each so each grid cell stays large enough to render legibly)
+
+**Template prompt summary:** Top-down photo of a tilted aged-newsprint page on a wood coffee-shop table, with a SMALL 5x5 crossword grid (large cells, big legible letters), masthead + date sub-header, ACROSS/DOWN clue list to the right, faint brand watermark bottom-right. Coffee cup steam + scattered brand sachets + brand pouch as props around the page.
+
+**Note:** Keep the grid SMALL (5x5 max) and use only 3-4 short crossing words. uni-1 garbles letters in tiny crossword cells; a small grid with big letters renders clean. T25 v1 used a 12x12 grid and the in-grid letters came out as glyph soup.
+
+Validated example: `iterations/ag1-v2/T25-newspaper-crossword-v2/`
+
+---
+
+## T26 — Cash register receipt
+
+**When to use:** product-as-receipt joke. List the brand's "benefits received" as itemized line items + total. Strong for "you get [list]" value-prop positioning.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (sits beside the receipt as a real-world prop)
+
+**Variables:** `{store_header}` (e.g. "AG1 WELLNESS CO.\ndrinkag1.com\n123 Foundation Way"), `{date_line}`, `{benefits[]}` (each `{label, value}` like `ENERGY  FREE`), `{total_line}` (e.g. "ONE GREAT DAY"), `{footer_text}`
+
+**Template prompt summary:** Top-down photo of a long thermal-printer receipt on a soft cream surface, slightly curled at the bottom, with the brand product placed beside it. Receipt content in monospaced caps: store header, "BENEFITS RECEIVED" section with itemized lines, faux barcode at the bottom, footer text. Soft warm natural light.
+
+Validated example: `iterations/ag1-v2/T26-cash-register-receipt/`
+
+---
+
+## T27 — Handwritten founder letter
+
+**When to use:** intimate brand storytelling. Founder voice, mission, gratitude, or insider-first-batch moment. Premium DTC brands use this to humanize at scale.
+
+**Aspect ratio:** `2:3`
+
+**Reference image:** product hero (placed beside the letter as a desk prop)
+
+**Variables:** `{letter_body}` (handwritten cursive, 6-10 short lines max — keep it sparse), `{founder_name}`, `{footer}` (URL + role)
+
+**Template prompt summary:** Top-down photo of cream stationery on a warm walnut desk, slightly tilted, with brand wordmark printed top-left. Letter body in flowing dark-blue cursive ink, organic imperfections (varying line weights, occasional ink flow). Black fountain pen across the bottom. Optional coffee-ring stain, edge of leather notebook, brand product visible in the upper-right corner.
+
+**Note:** uni-1 partially garbles handwritten cursive — keep letter content under 10 lines and accept that 2-3 words may shift. The aesthetic and intent come through; word-perfect handwriting is hard.
+
+Validated example: `iterations/ag1-v2/T27-handwritten-founder-letter/`
+
+---
+
+## T28 — Dating app swipe card (Hinge-style)
+
+**When to use:** brand personality / "what we're about" angle. Treats the brand as a dateable persona. Strong for personality brands and lifestyle products.
+
+**Aspect ratio:** `2:3`
+
+**Reference image:** product hero (the photo on the profile card)
+
+**Variables:** `{brand_age_label}` (e.g. "AG1, 75" — using ingredient count as age), `{location_line}` (e.g. "Foundational Nutrition · Here for the long haul"), `{prompts[]}` (2 prompt+answer pairs in Hinge style)
+
+**Template prompt summary:** Hinge-style profile card centered on cream background. Card has: header (brand name as "age" + location), hero product photo, 2 stacked answer prompts (each: small grey label + bold black answer + small grey heart icon), and the X / ♥ buttons centered at the bottom.
+
+Validated example: `iterations/ag1-v2/T28-dating-app-swipe/`
+
+---
+
+## T29 — TikTok creator video screenshot
+
+**When to use:** UGC creator energy. "Influencer holding the product mid-explanation" with chunky white-on-black caption text + comments overlay sliding up from the bottom. Native to TikTok/Reels.
+
+**Aspect ratio:** `9:16`
+
+**Reference image:** product hero
+
+**Variables:** `{creator_description}` (1-line — age, energy, setting), `{caption_text}` (3-4 short lines, white on black rounded-rectangles), `{comments[]}` (2 fake comments with @handle + body + heart count)
+
+**Template prompt summary:** Vertical canvas filled with a cinematic shallow-DOF kitchen photo of a casual creator holding the product up to camera mid-grin. White-text-on-black-rounded-rectangle TikTok-style captions in lower-mid area. Semi-transparent comments-overlay panel in the lower third with 2 visible comments. Plain text only — no emoji in body text.
+
+Validated example: `iterations/ag1-v2/T29-tiktok-creator/`
+
+---
+
+## T30 — Billboard / OOH placement mockup
+
+**When to use:** "we're a real brand" credibility through scale. Subway, transit, or street billboard imagery. Gives the brand the gravitas of an OOH campaign.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (small product photo at the bottom of the billboard)
+
+**Variables:** `{environment}` (e.g. "modern subway platform"), `{billboard_headline}` (2 stacked lines, bold sans), `{billboard_subcopy}`, `{brand.color_primary}` (billboard background), `{brand.url}`
+
+**Template prompt summary:** Cinematic photograph of a vertical digital billboard set in a real-world transit environment with motion-blurred pedestrians and atmospheric lighting. Inside the billboard: brand-color background, small brand wordmark top-left, large headline + sub-copy, small product photo near the bottom, URL at the very bottom. Premium DTC OOH aesthetic.
+
+Validated example: `iterations/ag1-v2/T30-billboard-ooh/`
+
+---
+
+## T31 — Scratch-off lottery ticket
+
+**When to use:** novelty / interactive feel. Treats the brand's benefits as "scratch to win" panels. Tactile, fun, distinctive.
+
+**Aspect ratio:** `2:3`
+
+**Reference image:** product hero (one of the 6 panels shows the actual product photo)
+
+**Variables:** `{ticket_title}` (e.g. "Match to Foundational Nutrition"), `{benefit_panels[]}` (5 panels, each `{icon, label}`), `{footer_line}` (e.g. "$0 LOSING TICKETS. EVERY SCOOP WINS."), `{ticket_serial}`
+
+**Template prompt summary:** Top-down photo of a cardstock scratch-off ticket on a textured surface, brand-color border framing a 3x2 grid of 5 silver scratch-off panels (with realistic foil partially scratched, revealing icons + labels) plus 1 panel containing the brand product photo. Title at top, "WIN ALL FIVE = …" line at bottom. Coin prop in lower-right corner. Silver flake dust scattered around.
+
+Validated example: `iterations/ag1-v2/T31-scratch-off-ticket/`
+
+---
+
+## T32 — Pain-point checklist + product
+
+**When to use:** problem-aware audiences. Lead with their pain via an unchecked-checkbox list, deliver the product as the answer below.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero
+
+**Variables:** `{headline}` (2-line bold all-caps question or statement), `{checklist_items[]}` (exactly 5 unchecked items, each conversational), `{tagline}` (1 closing line in bold serif), `{footer_url_line}`
+
+**Template prompt summary:** Pure white background. Top: bold black headline (~60pt). Middle: 5 unchecked checkbox rows, generous spacing. Lower-middle: clean product hero photo. Bottom: bold serif tagline + small caption with brand name and URL. Modern editorial layout.
+
+Validated example: `iterations/ag1-v2/T32-headline-checklist/`
+
+---
+
+## T33 — Bold typography hero quote
+
+**When to use:** stop-the-scroll brutalist statement. Strong for declarative or contrarian brand voice. Type IS the visual.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (small product accent in the lower-right)
+
+**Variables:** `{statement}` (3-line punchy declaration in chunky condensed sans, ~140pt feel, period at the end), `{supporting_text}` (3-4 short lines in the lower-left), `{brand.color_primary}` (canvas background), `{type_color}` (cream off-white that contrasts the brand color)
+
+**Template prompt summary:** Brand-color canvas with subtle radial vignette. Top 60%: HUGE bold condensed sans-serif statement, left-aligned, in cream off-white, three lines, tight letter/line-spacing. A small hand-drawn arrow curves from the period to the lower-right. Lower-right corner: small product photo color-matched to the background. Lower-left: small cream supporting text. Brutalist-meets-premium typography.
+
+Validated example: `iterations/ag1-v2/T33-bold-typography-quote/`
+
+---
+
+## T34 — iMessage conversation (with rich link card)
+
+**When to use:** "friend recommended it" social proof. Pixel-faithful iOS Messages screenshot, including a rich link preview card embedded in the conversation.
+
+**Aspect ratio:** `9:16`
+
+**Reference image:** product hero (used in the rich link preview card)
+
+**Variables:** `{contact_name}`, `{messages[]}` (4 bubbles total: 2 incoming grey, 2 outgoing blue including 1 with a rich link card preview), `{rich_card.url}`, `{rich_card.title}`, `{rich_card.description}`
+
+**Template prompt summary:** White background with iOS Messages header (contact avatar + name + timestamp + FaceTime icon). 4 bubbles in alternating grey (incoming) and blue (outgoing) with one outgoing message rendered as a rich link preview card containing the product photo + URL + title + 1-line description. iMessage input pill at the bottom. No iOS status bar, no home indicator, no Messages tab bar.
+
+Validated example: `iterations/ag1-v2/T34-imessage-conversation/`
+
+---
+
+## T35 — Magazine cover
+
+**When to use:** premium brand spotlight. Editorial magazine masthead with the product as the cover hero. Pairs well with wellness, fashion, lifestyle categories.
+
+**Aspect ratio:** `2:3`
+
+**Reference image:** product hero (the cover photograph)
+
+**Variables:** `{magazine_title}` (e.g. "VITALITY"), `{issue_subbar}` (e.g. "THE WELLNESS ISSUE · SUMMER 2026 · ISSUE 16"), `{cover_lines[]}` (3-4 cover-line headlines stacked down the left edge, each with a topic + 1-line description), `{spotlight_badge_text}`, `{bottom_band_text}` (italic serif, 2 lines)
+
+**Template prompt summary:** Top: bold serif magazine masthead + issue sub-bar. Left edge: vertical stack of cover-line headlines (each headline + one-line desc). Center-right: hero product photograph. Upper-right: small circular brand-spotlight badge. Bottom inset band with italic serif tagline + small caps subtitle. Glossy magazine cover aesthetic.
+
+Validated example: `iterations/ag1-v2/T35-magazine-cover/`
+
+---
+
+## T36 — Lifestyle "operator's daily kit" flatlay
+
+**When to use:** "what's in my bag/desk" lifestyle association. Curated flatlay of the brand product alongside aspirational everyday-carry items, each labeled with a small annotation. Strong for premium DTC trying to attach to a target audience's identity.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (centerpiece of the flatlay)
+
+**Variables:** `{surface_color}` (typically charcoal-black or warm walnut), `{items[]}` (6-8 EDC items each with `{description, position, label}`), `{center_caption}` (small product label under the centerpiece)
+
+**Template prompt summary:** Top-down flatlay on dark moody surface. Brand product as the centerpiece. 6-8 surrounding items (laptop, water bottle, phone, notebook, earbuds, glasses, wallet, etc.) arranged with negative space. Each item has a thin white hairline annotation line connecting it to a small white sans-serif caption. Cinematic top-down lighting.
+
+Validated example: `iterations/ag1-v2/T36-lifestyle-flatlay/`
+
+---
+
+## T37 — Weather-app forecast UI
+
+**When to use:** "your day on the brand" wellness narrative styled as a weather forecast. Each "hour" is a brand-driven outcome (Clear Strategy, Stress-Free Sunset, etc.). Distinctive and on-trend.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero
+
+**Variables:** `{headline}` (2-line "0% Stress." style), `{forecast_columns[]}` (5 columns, each `{time, icon_shape, condition_label, subtitle}`)
+
+**Template prompt summary:** Soft cream background. Small "FORECAST SOURCE" caps header, then bold black 2-line headline. Hairline divider. 5-column hourly forecast strip with stylized minimal vector icons (sun, lightning, sparkle, sunset, moon — render as shapes, not literal emoji). Each column: time + icon + condition + subtitle. Below: small product hero. Brand line at the bottom.
+
+Validated example: `iterations/ag1-v2/T37-weather-forecast/`
+
+---
+
+## T38 — Big stat hero with chart
+
+**When to use:** data-led credibility. Lead with a giant percentage/number, support with a minimal line chart, anchor with the product. Strong for outcome-driven brands (supplements, productivity, finance).
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (right side of the canvas)
+
+**Variables:** `{stat_value}` (e.g. "-37%" — the giant headline number in chunky condensed sans), `{stat_subhead}` (2-line bold black, e.g. "LESS STRESS. / MORE FOCUS."), `{stat_caption}` (1-line explanation), `{chart_axis_labels}` (e.g. weekly markers), `{benefit_icon_rows}` (3 small icon+label rows)
+
+**Template prompt summary:** White canvas. Top-left ~50%: huge brand-color condensed sans percentage statistic. Below the number: bold 2-line subhead, regular caption. Mini line chart with weekly markers and an emphasized data-point label. Three small icon-rows beneath. Right side: product hero with subtle drop shadow. Brand line at bottom. Modern data-led editorial.
+
+Validated example: `iterations/ag1-v2/T38-stat-hero-chart/`
+
+---
+
+## T39 — Museum exhibit display
+
+**When to use:** "the brand as cultural artifact" prestige play. Treats the product as an art piece on a plinth with a museum placard. Aspirational, premium, tongue-in-cheek.
+
+**Aspect ratio:** `1:1`
+
+**Reference image:** product hero (placed on the plinth)
+
+**Variables:** `{placard_title}` (e.g. "AG1 NEXT GEN"), `{placard_subtitle}` (e.g. "Foundational Nutrition, 2026"), `{placard_body}` (2-4 sentence "museum label" describing the artifact in dry institutional voice)
+
+**Template prompt summary:** Pale beige gallery wall, polished floor. Center-left: walnut-top dark-side plinth photographed at slight 3/4 angle, spot-lit from above. Brand product on the plinth, casting a soft elongated shadow. Right of center: wall-mounted white placard with thin grey border, formal museum-label typography (small caps brand line, serif title, subtitle, body, faint italic credit at bottom). Cinematic gallery lighting, hushed museum feel.
+
+**Note:** uni-1 partially garbles the small placard body text. Keep it under 4 sentences and the title/subtitle will stay crisp.
+
+Validated example: `iterations/ag1-v2/T39-museum-exhibit/`
+
+---
+
 ## Adding new templates
 
 When a new ad reference is worth turning into a template:

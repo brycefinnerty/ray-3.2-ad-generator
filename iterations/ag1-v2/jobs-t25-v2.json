@@ -1,0 +1,9 @@
+[
+  {
+    "name": "T25-newspaper-crossword-v2",
+    "prompt_path": "iterations/ag1-v2/T25-newspaper-crossword-v2/prompt.txt",
+    "ref_path": "ag1-assets/hero2.png",
+    "aspect": "1:1",
+    "out_dir": "iterations/ag1-v2/T25-newspaper-crossword-v2"
+  }
+]

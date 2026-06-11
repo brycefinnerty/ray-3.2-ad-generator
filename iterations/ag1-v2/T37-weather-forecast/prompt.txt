@@ -1,0 +1,23 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a fake "Weather forecast" UI styled as a wellness/energy daily forecast for the brand. Standalone ad creative. Soft cream / warm off-white background ~#F5F1EA.
+
+Top section (~22% height): a small grey caps label "FORECAST SOURCE" in muted text, then below a centered bold black sans-serif headline (~50pt feel) in two stacked lines:
+"0% Stress."
+"Foundational AG1 for founders."
+
+Below the headline, a thin grey hairline divider running across most of the canvas width.
+
+Middle section (~46% height): a horizontal hourly weather-forecast strip — five evenly-spaced columns, each containing top-to-bottom: a time label (small grey sans), a small soft-color weather-style icon (stylized minimal vector-style), a short weather-style condition label in black sans-serif, an even smaller subtitle in light grey. The five columns read:
+
+Column 1: "9 AM"  ☀️-style sun icon (soft yellow)  "Clear Strategy"  "Mental clarity"
+Column 2: "12 PM"  ⚡-style spark icon (soft amber)  "High ROAS Front"  "Peak performance"
+Column 3: "3 PM"  ✨-style sparkle icon (soft mint)  "Zero Panic"  "Calm pressure"
+Column 4: "6 PM"  🌅-style sunset icon (soft peach)  "Stress-Free Sunset"  "Energy holds"
+Column 5: "9 PM"  🌙-style moon icon (soft lavender)  "Deep Unplug"  "Rested mind"
+
+(Render the icons as SHAPES, not literal emoji — stylized minimal vector glyphs in soft pastel colors.)
+
+Lower section (~28% height): a clean editorial photograph of the AG1 product (deep forest-green pouch with white wordmark + clear shaker bottle of green liquid + 1-2 coral travel sachets), centered, well within the safe zone. Soft natural light, premium product photography.
+
+Bottom (~4% height): centered, small black sans-serif: "AG1 — drinkag1.com"
+
+The composition reads like a calm, designed weather-app forecast widget, but the data is "your day on AG1." Modern minimal aesthetic.

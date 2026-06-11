@@ -1,0 +1,7 @@
+[
+  {"name": "T35-magazine-cover", "prompt_path": "iterations/ag1-v2/T35-magazine-cover/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "2:3", "out_dir": "iterations/ag1-v2/T35-magazine-cover"},
+  {"name": "T36-lifestyle-flatlay", "prompt_path": "iterations/ag1-v2/T36-lifestyle-flatlay/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T36-lifestyle-flatlay"},
+  {"name": "T37-weather-forecast", "prompt_path": "iterations/ag1-v2/T37-weather-forecast/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T37-weather-forecast"},
+  {"name": "T38-stat-hero-chart", "prompt_path": "iterations/ag1-v2/T38-stat-hero-chart/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T38-stat-hero-chart"},
+  {"name": "T39-museum-exhibit", "prompt_path": "iterations/ag1-v2/T39-museum-exhibit/prompt.txt", "ref_path": "ag1-assets/hero2.png", "aspect": "1:1", "out_dir": "iterations/ag1-v2/T39-museum-exhibit"}
+]

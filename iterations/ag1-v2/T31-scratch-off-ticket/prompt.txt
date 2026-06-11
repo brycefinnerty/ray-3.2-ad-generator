@@ -1,0 +1,24 @@
+2:3 portrait static ad creative, 1080x1620, edge-to-edge — a top-down photograph of a physical scratch-off lottery ticket on a slightly textured surface, with scratched-off silver foil flakes scattered around it. Standalone ad creative.
+
+Background: a soft greige textured surface (like brushed concrete or matte cardstock). Faint silver scratch-off flakes dust the surface around the ticket.
+
+Centered: a single rectangular scratch-off card (~75% of canvas width, slightly tilted ~3° clockwise), thick cardstock with rounded corners, a faint paper texture. The ticket has a deep AG1 forest-green border (~5% of card width) framing the central content.
+
+Ticket content, top to bottom:
+- Top header bar: white box containing "AG1 PRESENTS" in small forest-green caps, a small green leaf icon, and serial number "No. 075777 / NEXT GEN"
+- Title: "Match to Foundational Nutrition" in bold dark forest-green serif (large)
+- Centered: a 3x2 grid of six square panels — five of them are silver scratch-off panels (with realistic foil texture, partially scratched away revealing icons + words underneath), one is a clean white panel containing the AG1 product photo.
+
+The five scratched-off icons reveal in white circles with dark forest-green icons + caps labels beneath:
+1. Top-left: a leaf icon, label "ENERGY"
+2. Top-middle: a brain icon, label "FOCUS"
+3. Top-right: a heart icon, label "CALM"
+4. Bottom-left: a smile icon, label "GUT HEALTH"
+5. Bottom-middle: a star icon, label "WIN"
+6. Bottom-right: clean white panel with the AG1 product photo (forest-green pouch with white wordmark, small)
+
+- Below the grid, large bold serif: "WIN ALL FIVE = ONE SCOOP DAILY"
+- Footer text in small caps: "$0 LOSING TICKETS. EVERY SCOOP WINS. drinkag1.com"
+- Bottom-right corner: a small dime / quarter-sized round circle (the "scratching coin" prop) photographed beside the ticket
+
+Soft top-down lighting, slight shadow under the card. Tactile, real-world product-photography aesthetic. Feels like a clever scratch-off card you'd actually want to play.

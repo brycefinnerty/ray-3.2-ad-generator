@@ -28,14 +28,28 @@ If you're an agent helping someone set this up, **read the rest of this file too
 │   │   ├── scripts/                # generate_image.py, top_spending_ads.py, create_text_variant_creative.py
 │   │   ├── references/             # prompt-library.md, ad-copy-frameworks.md, meta-cli-flags.md
 │   │   └── state.json              # per-account cache (gitignored once populated)
-│   └── image-ad-clone/             # template-CREATING skill — reverse-engineer ads into reusable prompts
+│   ├── image-ad-clone/             # template-CREATING skill — reverse-engineer ads into reusable prompts
+│   │   ├── SKILL.md
+│   │   └── references/template-format.md
+│   ├── ray3-video-ad/              # VIDEO skill — generate/edit/reframe ray-3.2 video ad creatives
+│   │   ├── SKILL.md
+│   │   ├── scripts/                # generate_video.py
+│   │   └── references/             # video-concepts.md (concept library by ads use case)
+│   ├── claymation-ad/              # STORY-FILM skill — multi-beat claymation ads end-to-end
+│   │   ├── SKILL.md
+│   │   └── scripts/                # claymation_pipeline.py
+│   └── cinematic-ad/               # TRAILER skill — fast-cut cinematic product ads end-to-end
 │       ├── SKILL.md
-│       └── references/template-format.md
+│       ├── scripts/                # make_audio.py (ElevenLabs layer), assemble.py (grid edit + mix)
+│       └── references/             # cinematic-playbook.md, project-template.json
 ├── docs/luma-agents-api/           # offline Luma API reference
 │   ├── quickstart.md
 │   ├── model.md                    # uni-1 capabilities, params, output specs
 │   ├── image-generation.md         # type: "image" — every parameter
 │   ├── image-editing.md            # type: "image_edit" — source + image_ref
+│   ├── video-generation.md         # type: "video" — ray-3.2 t2v/i2v, extend, loop, HDR/EXR
+│   ├── video-editing.md            # type: "video_edit" — restyle/modify, strength bands, 64 keyframes
+│   ├── video-reframing.md          # type: "video_reframe" — outpaint to new aspect ratio
 │   ├── rate-limits.md              # 30 RPM / 10 concurrent jobs, headers, backoff
 │   ├── error-handling.md           # every status code + failure_code
 │   └── faq.md
@@ -49,9 +63,12 @@ If you're an agent helping someone set this up, **read the rest of this file too
 
 `./skills/<skill-name>/` are the canonical copies. After clone, run `./install.sh` to symlink them into `~/.claude/skills/` so Claude Code picks them up. Editing the in-repo copy is the same as editing the live skill.
 
-**Two skills, complementary:**
+**Five skills, complementary:**
 - `uni1-image-ad` is the **template-using** skill: trigger it to generate a uni-1 image and upload it as a paused Meta ad, optionally filling in a template from the prompt library.
 - `image-ad-clone` is the **template-creating** skill: trigger it with a reference ad image and it reverse-engineers it into a parameterizable prompt that gets appended to the prompt library, ready for `uni1-image-ad` to use later.
+- `ray3-video-ad` is the **video** skill: generate (`video`), restyle (`video_edit`), or aspect-ratio-outpaint (`video_reframe`) video ad creatives with **ray-3.2** on the same agents API. Cost-gated (`--dry-run` first — clips cost $0.15–$3.60), silent-output-aware, and Meta upload for video is NOT yet wired (generation/review only for now).
+- `claymation-ad` is the **story-film** skill: multi-beat claymation ads end-to-end — uni-1 character/environment reference sheets → per-beat anchor stills → ray-3.2 animation → ElevenLabs VO/SFX/music on a punchy VO-driven timeline (`scripts/claymation_pipeline.py`). Needs `ELEVENLABS_API_KEY` in `.env`. Validated by "The Lab" (45.7s, 12 beats, ~$5.50 in Luma credits).
+- `cinematic-ad` is the **trailer** skill: fast-cut cinematic product ads (15–30s) — beat-map grid edit, uni-1 product-grounded stills → ray-3.2 shots (camera-arc motion, no object rotation), ElevenLabs trailer VO ("David Trailer")/SFX/score via `scripts/make_audio.py`, grid assembly + frame-pinned SFX sync via `scripts/assemble.py`, and HyperFrames motion-graphic supers. Driven by one `project.json` manifest (see `references/project-template.json`). Needs `ELEVENLABS_API_KEY` + a product photo in `Reference Images/`; Node 22+ for supers. Validated by "Stitched" (15s, 7 shots, ~$4.15 all-in).
 
 ## The Luma API at a glance
 
@@ -60,10 +77,11 @@ The full reference is in [`docs/luma-agents-api/`](./docs/luma-agents-api/). Rea
 - **Base URL:** `https://agents.lumalabs.ai/v1`
 - **Endpoints:** `POST /v1/generations` (submit) and `GET /v1/generations/{id}` (poll)
 - **Auth:** `Authorization: Bearer <LUMA_API_KEY>` — keys start with `luma-api-`
-- **Model:** `uni-1` (only). Both text-to-image (`type: "image"`) and image edit (`type: "image_edit"`) go through the same endpoint
+- **Models:** `uni-1` for images, `ray-3.2` for video. All types go through the same endpoint: `image`, `image_edit`, `video`, `video_edit`, `video_reframe`
 - **Reference images:** `image_ref` (array, up to 9 for `image`, up to 8 for `image_edit`). Each entry is `{"url": "..."}` or `{"data": "<base64>", "media_type": "image/png"}` — never both, never neither
 - **Source image** (edit only): `source` — same shape as a single `image_ref` entry
-- **Aspect ratios:** Luma supports `1:1`, `2:3`, `9:16`, `1:2`, `1:3`, `3:2`, `16:9`, `2:1`, `3:1`. (`4:5` and `1.91:1`, common Meta ratios, are NOT supported by uni-1 — use `2:3` for tall feed and `16:9` for wide.) See [model.md](./docs/luma-agents-api/model.md) for the full list.
+- **Aspect ratios (image):** Luma supports `1:1`, `2:3`, `9:16`, `1:2`, `1:3`, `3:2`, `16:9`, `2:1`, `3:1`. (`4:5` and `1.91:1`, common Meta ratios, are NOT supported by uni-1 — use `2:3` for tall feed and `16:9` for wide.) See [model.md](./docs/luma-agents-api/model.md) for the full list.
+- **Aspect ratios (video):** ray-3.2 supports `9:16`, `3:4`, `1:1`, `4:3`, `16:9`, `21:9`. Video specifics — 5s/10s clips, 540p/720p/1080p, loop, HDR/EXR, extend-chaining, edit strength bands, reframe — live in [video-generation.md](./docs/luma-agents-api/video-generation.md), [video-editing.md](./docs/luma-agents-api/video-editing.md), [video-reframing.md](./docs/luma-agents-api/video-reframing.md). ray-3.2 output is **silent** (no audio API).
 - **Output URLs expire after 1 hour.** Re-poll the generation to get a fresh signed URL
 - **Rate limits:** 30 RPM, 10 concurrent jobs per client. See [rate-limits.md](./docs/luma-agents-api/rate-limits.md) for backoff strategy
 
@@ -150,7 +168,8 @@ The skill contains:
 
 These are not preferences. They come from how the skill is built ("uni-1 only" is the whole point) and from the basic safety rule of "don't spend ad money by accident."
 
-1. **Model is `uni-1`.** Do not substitute `photon-1`, `photon-flash-1`, or any other model. The skill's prompt library, reference-grounding behavior, and aspect-ratio support all assume uni-1 — substituting silently breaks them. The helper script enforces this at the CLI; SKILL.md restates it. If you find yourself reaching for a different model "just to test," stop.
+1. **Models are locked: `uni-1` for images, `ray-3.2` for video.** Do not substitute `photon-1`, `photon-flash-1`, `ray-2`, `ray-flash-2`, or any other model. The prompt/concept libraries, reference-grounding behavior, and aspect-ratio support all assume these models — substituting silently breaks them. Both helper scripts enforce the lock at the CLI; the SKILL.md files restate it. If you find yourself reaching for a different model "just to test," stop.
+1a. **Video generations are cost-gated.** Clips cost $0.15–$3.60 each. Always `--dry-run` first, show the user the estimated cost, and get explicit approval before a paid `generate_video.py` run. Iterate at 720p/5s; 1080p/HDR only on approved finals.
 2. **Ad status is `PAUSED`.** Never pass `--status ACTIVE` to `meta ads ad create`. The user reviews and launches manually in Ads Manager.
 3. **Confirmation gate before every Meta CLI mutation.** Show the full command, get explicit approval, then run. This applies to `meta ads creative create` and `meta ads ad create`. Read-only commands (`list`, `get`, `current`) don't need a gate.
 4. **Audit log first, then mutate.** When a creative is created, append a JSONL row to `./generated/runs.jsonl` *before* attempting the ad-create step. If ad-create fails, the orphan creative ID must be recoverable from the log.
@@ -205,4 +224,4 @@ where `ACCOUNT_NUMERIC` is `AD_ACCOUNT_ID` with the `act_` prefix stripped.
 
 - **Luma API behavior:** [`docs/luma-agents-api/`](./docs/luma-agents-api/) is the offline source of truth.
 - **Meta CLI flags:** `meta ads <resource> --help` for any command, plus the reference at `~/.claude/skills/uni1-image-ad/references/meta-cli-flags.md`.
-- **The brand contract:** uni-1 only. Always.
+- **The brand contract:** uni-1 for images, ray-3.2 for video. Always.

@@ -1,0 +1,18 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a bold statistic-led ad with a giant percentage headline, a small minimal chart underneath, and the product to the side. Standalone ad creative. Pure white background.
+
+Top-left occupying ~50% width and ~50% height: a HUGE bold dark forest-green sans-serif percentage statistic, like "-37%" rendered in a chunky modern condensed sans (~180pt feel), with the minus sign and percent character full-size. Letter-spacing is tight.
+
+Below the giant number, in slightly smaller bold black sans-serif (~36pt), a stacked two-line statement:
+"LESS STRESS.
+MORE FOCUS."
+
+Below that, in regular black sans-serif at smaller size (~16pt), a single explanatory line:
+"Average cortisol reduction during 8 weeks of daily AG1."
+
+Below the explanatory line, a SMALL clean line-chart visualization (~30% of canvas width): a horizontal axis with 4 weekly tick labels (WEEK 1, WEEK 2, WEEK 3, WEEK 4), a vertical axis with a soft grid, and a single green line descending from the upper-left to the lower-right with small dot markers at each week. A single emphasized "-37%" label at the lowest point (small white pill on the green line). Below the chart, three tiny stacked icon+caption rows: "Sharper focus", "Better decisions", "Calmer mindset" with small icons (a brain, a target, a leaf) preceding each.
+
+Right side of the canvas (~40% width, vertically centered): a clean editorial photograph of the AG1 product — deep forest-green pouch with white "AG1" wordmark, alongside a clear shaker bottle of green liquid. The product is photographed against a faintly cream background that fades into the white canvas, with subtle drop shadow.
+
+Bottom (~6% height): small black sans-serif "AG1 · drinkag1.com" centered.
+
+Modern data-led editorial design. The big number is the hero; the chart proves it; the product is the deliverable.

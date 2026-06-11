@@ -1,0 +1,22 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a bold editorial typography hero with a punchy three-line statement filling most of the canvas, a small product photo as a footnote, and minimal supporting text. Standalone ad creative.
+
+Background: deep AG1 forest-green ~#1A4731, edge-to-edge, with a subtle radial darker vignette centered on the canvas.
+
+Top 60% of the canvas: a HUGE bold sans-serif statement (~140pt feel — chunky, condensed, brutalist) in cream off-white ~#F5F1EA, stacked across three lines, left-aligned with consistent left margin (~10% from canvas left edge):
+
+"STOP STACKING
+PILLS LIKE IT'S
+2014."
+
+Each line is a full uppercase sentence-fragment. The third line ends with a period. Letter-spacing is tight, line-height is tight (lines almost touch). The TYPE is the hero — not centered, intentionally left-aligned.
+
+A small hand-drawn arrow (white outline, slightly wobbly, marker-style) curves down-right from the period at the end of "2014." pointing toward the lower-right corner of the canvas where the product sits.
+
+Bottom-right corner (~28% of canvas, fully within safe zone): a clean editorial photograph of the AG1 product — deep forest-green pouch with white "AG1" wordmark visible, slightly tilted, with a faint soft drop shadow. The product is photographed against the same green background, color-matched.
+
+To the left of the product (lower-left quadrant), in cream off-white sans-serif at smaller size (~28pt), three short stacked lines:
+"One scoop. 75+ ingredients.
+Foundational nutrition.
+drinkag1.com"
+
+Modern, brutalist-meets-premium typography aesthetic. The type makes the joke; the product punctuates it.

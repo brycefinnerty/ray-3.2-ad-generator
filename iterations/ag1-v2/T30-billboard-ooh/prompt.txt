@@ -1,0 +1,15 @@
+1:1 static ad creative, 1080x1080, edge-to-edge — a photograph of a real-world out-of-home billboard or subway/bus-stop digital ad placement featuring the brand. Standalone ad creative.
+
+Setting: a modern subway / metro station platform or transit hallway, slightly out of focus with cinematic depth of field. The platform has soft cool blue lighting in the background, with a few blurred silhouettes of pedestrians walking past. A polished concrete or marble floor reflects subtle light.
+
+Centered in the frame: a large rectangular vertical digital billboard (like a Vista Network or Lamar transit display), occupying ~70% of canvas width and ~80% of canvas height. The billboard has a thin dark frame with a clean lit display face inside.
+
+Inside the billboard display:
+- Background: deep AG1 forest-green ~#1A4731, edge-to-edge inside the frame
+- Top-left corner: small white "AG1" wordmark
+- Center, large bold white sans-serif headline (~40% of billboard height) in two stacked lines: "ONE SCOOP. / EVERYTHING YOU NEED."
+- Below the headline, slightly smaller white sans-serif: "Foundational nutrition for the life you actually want."
+- Bottom-center: a clean photograph of the AG1 product — deep forest-green pouch with white wordmark, a clear shaker bottle of green liquid, a few coral travel sachets fanned out beside them.
+- Very bottom: small white URL "drinkag1.com"
+
+The billboard is brightly lit (slight glow on the surrounding wall), set into a real-world environment with motion-blurred passers-by and atmospheric background. Premium DTC OOH aesthetic — feels like a real Vogue / Men's Health subway ad.

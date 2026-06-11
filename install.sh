@@ -12,7 +12,7 @@
 set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SKILLS=(uni1-image-ad image-ad-clone)
+SKILLS=(uni1-image-ad image-ad-clone ray3-video-ad claymation-ad cinematic-ad)
 
 green()  { printf "\033[32m%s\033[0m\n" "$*"; }
 yellow() { printf "\033[33m%s\033[0m\n" "$*"; }

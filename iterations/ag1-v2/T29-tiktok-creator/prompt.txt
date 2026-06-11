@@ -1,0 +1,25 @@
+9:16 portrait static ad creative, 1080x1920, edge-to-edge — a fake TikTok video screenshot with a creator holding the product, captions, and a comments overlay. Standalone ad creative.
+
+The full canvas is filled with a vertical TikTok-style video frame. Background: a fit, smiling man in his early 30s, casual hoodie, standing in a softly-lit kitchen at golden-hour. He holds a deep forest-green AG1 pouch up close to camera with one hand, his face slightly to the side, mid-grin like he's mid-explanation. Cinematic shallow depth of field, the background is softly blurred (kitchen counter, plants, a window).
+
+Overlaid on the video, lower-mid area, in the chunky angled white-text-on-black-rounded-rectangles aesthetic typical of TikTok captions:
+"How I survived Q4 without
+losing my mind: AG1 every
+morning. #notsponsored
+#actuallyworks"
+
+In the lower third of the canvas (below the captions, above the comments overlay), an OVERLAY panel rendered in semi-transparent dark grey appears to be the comments section sliding up from the bottom. Inside the panel, two visible comments rendered top to bottom:
+
+Comment 1:
+- Small circular avatar (cartoon person)
+- "@morningroutine"
+- Comment text: "Bro literally same. AG1 is a life saver during launches"
+- Below: a small heart icon and "1.2K"
+
+Comment 2:
+- Small circular avatar
+- "@dtcops"
+- Comment text: "Picked it up after seeing your last video. 4 weeks in, no regrets"
+- Below: heart icon and "847"
+
+The composition reads as an organic TikTok creator post — but rendered as a standalone ad creative. No iOS chrome, no TikTok navigation tabs at the bottom, no like/share/comment side rail beyond the comments overlay panel.

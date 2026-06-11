@@ -1,8 +1,22 @@
-# uni1-image-ad
+# Ray 3.2 Ad Generator
 
-A Claude Code skill that generates Meta/Facebook image ads with **Luma's uni-1** model and uploads them to your Meta ad account, end-to-end. The skill clones an existing ad's structure (page, ad set, link, CTA), generates a new uni-1 image (optionally grounded on your brand's product photo), writes fresh ad copy informed by your account's top-spending ads, and creates the ad **paused** for you to review and launch.
+A Claude Code workbench that generates finished ad creatives end-to-end with **Luma's ray-3.2** (video) and **uni-1** (images), plus **ElevenLabs** (VO / SFX / music) and **HyperFrames** (motion-graphic supers). Five complementary skills:
 
-The whole project is built around uni-1 specifically. Substituting another image model would silently break the prompt library, reference-grounding behavior, and aspect-ratio support. The helper script enforces the model lock at the CLI layer.
+| Skill | What it makes |
+|---|---|
+| `uni1-image-ad` | uni-1 image ads, uploaded to Meta as paused ads |
+| `image-ad-clone` | reverse-engineers reference ads into reusable prompt templates |
+| `ray3-video-ad` | single ray-3.2 video clips — b-roll, i2v, restyles, reframes |
+| `claymation-ad` | multi-beat claymation story films with consistent characters + full audio ("The Lab", 45.7s, ~$5.50 in Luma credits) |
+| `cinematic-ad` | fast-cut trailer-style product ads with synced supers ("Stitched", 15s, ~$4.15 all-in) |
+
+Start with [`CLAUDE.md`](./CLAUDE.md) for the agent-facing map of the whole workbench. The sections below document the original image workflow; the video skills follow the same conventions (`.env` keys, cost gates, paused-only Meta mutations).
+
+---
+
+The image skill clones an existing ad's structure (page, ad set, link, CTA), generates a new uni-1 image (optionally grounded on your brand's product photo), writes fresh ad copy informed by your account's top-spending ads, and creates the ad **paused** for you to review and launch.
+
+The project is built around Luma's models specifically — uni-1 for images, ray-3.2 for video. Substituting other models would silently break the prompt library, reference-grounding behavior, and aspect-ratio support. The helper scripts enforce the model locks at the CLI layer.
 
 ## What's in the box
 

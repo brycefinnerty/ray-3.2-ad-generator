@@ -1,0 +1,32 @@
+{
+  "voice": "George",
+  "music_prompt": "Quirky playful stop-motion claymation adventure score, fully instrumental, no vocals: opens tense and comedic with plucky pizzicato strings, woodblock ticks and sneaky bass clarinet; blossoms into curious wonder with marimba, celesta and warm strings in the middle; builds to a warm triumphant whimsical finale with light brass, glockenspiel and hand claps, ending on a single bright resolved chord. Charming handmade animation feel.",
+  "beats": [
+    {"vo": "This is Dave. It's 11 PM, his CPAs are up, and Meta just ate another test budget.",
+     "sfx": "soft tense office ambience: low computer hum, a wall of old monitors buzzing faintly, occasional worried beeps, quiet clock ticking, miniature room tone"},
+    {"vo": "Every week, he feeds the machine new creative…",
+     "sfx": "stop-motion foley: a heavy metal lever cranked with effort, mechanical ratchet clicks, a big clunky machine shudder, then a small crumpled paper ball plops into a metal tray"},
+    {"vo": "…and every week, the machine wins.",
+     "sfx": "stop-motion foley: dozens of crumpled paper balls tumbling and bouncing in a cascade, papery rustles and soft thumps, a tired human sigh at the end"},
+    {"vo": "Then… he finds the lab.",
+     "sfx": "a heavy wooden door creaking slowly open, old hinges groan, then a warm magical shimmer whoosh and soft distant bubbling"},
+    {"vo": "Run by a guy with twelve years, and a hundred and fifty million dollars in ad spend behind him.",
+     "sfx": "magical alchemy lab ambience: glass potion flasks bubbling and fizzing, tiny steam hisses, gentle whimsical chimes, warm candle crackle"},
+    {"vo": "Inside: AI agents that build your ads…",
+     "sfx": "liquid pouring into a metal funnel with a musical gurgle, magical sparkle fizz, then big clay gears starting to turn with soft wooden clicks"},
+    {"vo": "…systems that test them at scale…",
+     "sfx": "rhythmic mechanical stamping press thumping steadily, conveyor belt clattering, small metallic dings on each stamp, playful factory rhythm"},
+    {"vo": "…and winners that surface while you sleep.",
+     "sfx": "a cascade of bright glass power-up chimes lighting one after another, soft magical glows pulsing, a pressure gauge creaking upward, steam puff"},
+    {"vo": "No more guessing. No more eleven PMs.",
+     "sfx": "calm cozy morning ambience: soft birdsong outside a window, gentle room tone, a quiet coffee sip and a satisfied exhale"},
+    {"vo": "Join five hundred media buyers turning ad spend into gold.",
+     "sfx": "a soft clay fist-bump thump, then a small cheerful crowd of tiny voices cheering and laughing, little glass flasks clinking in celebration"},
+    {"vo": "The AI Ad Alchemists. The anti-guru lab for paid social.",
+     "sfx": "a heavy gold bar sliding out of a metal slot and landing on wood with a satisfying weighty thunk, golden sparkle shimmer"},
+    {"vo": "Find us on Skool. Link below.",
+     "sfx": "warm magical resolve: a single potion flask bubbling gently, a soft triumphant shimmer chime, cozy candle crackle, gentle fade"}
+  ],
+  "vol_sfx": 0.32,
+  "vol_music": 0.17
+}

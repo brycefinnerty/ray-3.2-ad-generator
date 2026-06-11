@@ -88,9 +88,9 @@ Verify in this exact order; bail on the first failure with a fix-it message.
 4. **Show the cloned values to the user** as a compact summary so they can sanity-check. Example:
    ```
    Cloning from ad 120246xxxxxxxxxxxx ("Old Headline · v3")
-     Ad set:  120243594343360512  (Luma AI Testimonial Ads)
-     Page:    1234567890           (Mr. Paid Social)
-     Link:    https://lumalabs.ai/api
+     Ad set:  120243xxxxxxxxxxxx  (<adset name>)
+     Page:    1234567890          (<brand page>)
+     Link:    https://example.com/landing
      CTA:     LEARN_MORE
      Body (cloned, for tone reference):
        "<first 80 chars>…"
@@ -210,10 +210,10 @@ For each selected variant, you (Claude) write a **new** body and headline. Ancho
 Show all variants' copy as a numbered table for review, including which framework each used and a one-line note on which top-spending ad it pattern-matches:
 
 ```
-v1  [framework: First Person]  matches: 120245165245740512 ("Refresh. Duplicate. Pause. Pray.")
+v1  [framework: First Person]  matches: <top-spending-ad-id-1> ("<short hook from that ad>")
   title:  …
   body:   …
-v2  [framework: Statistic]     matches: 120243595999050512 ("The math doesn't lie.")
+v2  [framework: Statistic]     matches: <top-spending-ad-id-2> ("<short hook from that ad>")
   title:  …
   body:   …
 ```

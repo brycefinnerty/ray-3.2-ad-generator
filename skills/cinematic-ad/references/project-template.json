@@ -1,0 +1,220 @@
+{
+  "_comment": "Worked example: 'Stitched' (Mr. Paid Social corduroy hat, June 2026). Copy this file per project; regenerate paths/timings for your ad. vo_events timings come from MEASURED durations printed by make_audio.py.",
+  "total": 15.0,
+  "loudnorm": "I=-14:TP=-1.5:LRA=9",
+  "audio_dir": "generated/hat-ad/audio",
+  "voice": "David Trailer",
+  "voice_settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.85,
+    "style": 0.5
+  },
+  "vo": [
+    {
+      "id": "vo1",
+      "text": "Performance isn't loud."
+    },
+    {
+      "id": "vo2",
+      "text": "It's stitched."
+    },
+    {
+      "id": "vo3",
+      "text": "Worn by the ones who ship."
+    },
+    {
+      "id": "vo4",
+      "text": "Mr. Paid Social."
+    },
+    {
+      "id": "vo5",
+      "text": "Premium gear. Budget approved."
+    }
+  ],
+  "sfx": [
+    {
+      "id": "braam",
+      "prompt": "deep cinematic trailer braam hit with sub bass, dark and premium",
+      "seconds": 2.0
+    },
+    {
+      "id": "whoosh",
+      "prompt": "fast tight cinematic whoosh transition, airy swish",
+      "seconds": 1.0
+    },
+    {
+      "id": "impact",
+      "prompt": "deep cinematic impact boom with dust debris settle, trailer hit",
+      "seconds": 1.8
+    },
+    {
+      "id": "fabric",
+      "prompt": "soft corduroy fabric brush and rustle, close-up tactile texture sound",
+      "seconds": 2.0
+    },
+    {
+      "id": "shimmer",
+      "prompt": "bright golden shimmer ting, jewelry sparkle accent, elegant",
+      "seconds": 1.5
+    },
+    {
+      "id": "street",
+      "prompt": "brief golden-hour city street ambience swell with distant traffic",
+      "seconds": 2.5
+    },
+    {
+      "id": "riser",
+      "prompt": "tense cinematic riser building to a peak, whoosh crescendo",
+      "seconds": 3.0
+    },
+    {
+      "id": "resolve",
+      "prompt": "final cinematic button: deep soft impact with warm reverb tail resolving",
+      "seconds": 2.5
+    }
+  ],
+  "music_gen": {
+    "prompt": "Cinematic product-launch trailer cue, instrumental, no vocals: dark minimal opening with deep pulsing sub bass and sparse percussion, tension builds with ticking hi-hats and a rising string line, sharp braam accents on downbeats, explodes into a confident powerful finale at the end, last chord rings out clean. Premium, modern, fashion-film energy.",
+    "seconds": 15.0
+  },
+  "shots": [
+    {
+      "clip": "generated/hat-ad/clips/s1/20260611T193933Z-the-raking-light-beam-sweeps-steadily-ac-v1.mp4",
+      "offset": 0.8,
+      "duration": 2.0
+    },
+    {
+      "clip": "generated/hat-ad/clips/s2/20260611T193109Z-the-hat-drops-the-final-centimeters-and--v1.mp4",
+      "offset": 0.6,
+      "duration": 2.0
+    },
+    {
+      "clip": "generated/hat-ad/clips/s3/20260611T193109Z-a-warm-light-sweep-travels-across-the-go-v1.mp4",
+      "offset": 0.8,
+      "duration": 2.0
+    },
+    {
+      "clip": "generated/hat-ad/clips/s4/20260611T193109Z-he-seats-the-hat-onto-his-head-with-both-v1.mp4",
+      "offset": 0.8,
+      "duration": 2.0
+    },
+    {
+      "clip": "generated/hat-ad/clips/s5/20260611T193215Z-the-hat-rotates-very-slowly-in-the-god-r-v1.mp4",
+      "offset": 1.0,
+      "duration": 2.5
+    },
+    {
+      "clip": "generated/hat-ad/clips/s6/20260611T195025Z-the-hat-hangs-perfectly-still-and-rigid--v1.mp4",
+      "offset": 0.5,
+      "duration": 2.0
+    },
+    {
+      "clip": "generated/hat-ad/clips/s7/20260611T205342Z-gentle-light-breathing-on-the-end-card-t-v1.mp4",
+      "offset": 0.3,
+      "duration": 2.5
+    }
+  ],
+  "vo_events": [
+    {
+      "file": "vo1.mp3",
+      "start": 0.3,
+      "volume": 1.0,
+      "atempo": null
+    },
+    {
+      "file": "vo2.mp3",
+      "start": 4.3,
+      "volume": 1.0,
+      "atempo": null
+    },
+    {
+      "file": "vo3.mp3",
+      "start": 6.05,
+      "volume": 1.0,
+      "atempo": null
+    },
+    {
+      "file": "vo4.mp3",
+      "start": 9.3,
+      "volume": 1.0,
+      "atempo": null
+    },
+    {
+      "file": "vo5.mp3",
+      "start": 11.78,
+      "volume": 1.0,
+      "atempo": 1.15
+    }
+  ],
+  "sfx_events": [
+    {
+      "file": "sfx/braam.mp3",
+      "start": 0.0,
+      "volume": 0.5
+    },
+    {
+      "file": "sfx/fabric.mp3",
+      "start": 0.3,
+      "volume": 0.35
+    },
+    {
+      "file": "sfx/whoosh.mp3",
+      "start": 1.85,
+      "volume": 0.5
+    },
+    {
+      "file": "sfx/impact.mp3",
+      "start": 2.5,
+      "volume": 0.55
+    },
+    {
+      "file": "sfx/whoosh.mp3",
+      "start": 3.85,
+      "volume": 0.5
+    },
+    {
+      "file": "sfx/shimmer.mp3",
+      "start": 4.35,
+      "volume": 0.45
+    },
+    {
+      "file": "sfx/whoosh.mp3",
+      "start": 5.85,
+      "volume": 0.5
+    },
+    {
+      "file": "sfx/street.mp3",
+      "start": 6.0,
+      "volume": 0.3
+    },
+    {
+      "file": "sfx/whoosh.mp3",
+      "start": 7.85,
+      "volume": 0.5
+    },
+    {
+      "file": "sfx/riser.mp3",
+      "start": 8.0,
+      "volume": 0.45
+    },
+    {
+      "file": "sfx/whoosh.mp3",
+      "start": 10.35,
+      "volume": 0.5
+    },
+    {
+      "file": "sfx/impact.mp3",
+      "start": 10.5,
+      "volume": 0.55
+    },
+    {
+      "file": "sfx/resolve.mp3",
+      "start": 12.5,
+      "volume": 0.5
+    }
+  ],
+  "music_mix": {
+    "file": "music.mp3",
+    "volume": 0.32
+  }
+}

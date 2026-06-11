@@ -47,3 +47,9 @@ venv/
 # --- temp ---
 *.tmp
 *.bak
+
+# --- session logs ---
+err.log
+
+# --- personal photos (never ship) ---
+Reference Images/IMG_5622.JPG
